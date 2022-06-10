@@ -1,0 +1,159 @@
+{% extends 'home/layout.html' %} {% block title %} {{ title }} {% endblock %} {% block content %}
+<style>
+    .myCard {
+        margin-left: 0px;
+        margin-right: 0px;
+        /* HOVER OFF */
+        transition: all 0.5s ease-in-out;
+    }
+    
+    .bg-text {
+        background-color: rgb(0, 0, 0);
+        /* Fallback color */
+        background-color: rgba(0, 0, 0, 0.4);
+        /* Black w/opacity/see-through */
+        color: white;
+        font-weight: bold;
+        border: 3px solid #f1f1f1;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 2;
+        width: auto;
+        padding: 20px;
+        align-content: center;
+        align-items: center;
+    }
+    
+    .myCard:hover {
+        box-shadow: 5px 5px 20px 10px #00B4CC;
+        transition: all 0.5s ease-in-out;
+    }
+    
+    .myCard-img-top {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+    
+    @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+    .search {
+        position: relative;
+        display: flex;
+    }
+    
+    .searchTerm {
+        width: 100%;
+        border: 3px solid #00B4CC;
+        border-right: none;
+        padding: 5px;
+        height: 50px;
+        border-radius: 5px 0 0 5px;
+        outline: none;
+        color: #010a06;
+    }
+    
+    .searchTerm:focus {
+        color: #00B4CC;
+    }
+    
+    .searchButton {
+        width: 80px;
+        height: 50px;
+        border: 1px solid #00B4CC;
+        background: #00B4CC;
+        text-align: center;
+        color: #fff;
+        border-radius: 0 5px 5px 0;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    /*Resize the wrap to see the search bar change!*/
+    
+    .wrap {
+        width: 50%;
+        height: 36px;
+    }
+    
+    .parent {
+        text-align: center;
+    }
+    
+    .child {
+        display: inline-block;
+    }
+</style>
+
+<div>
+    <p style="font-size: xx-large;">Your account details are below:</p>
+    <table>
+        <tr>
+            <td>Username:</td>
+            <td>{{ account['username'] }}</td>
+        </tr>
+        <tr>
+            <td>Email:</td>
+            <td>{{ account['email'] }}</td>
+        </tr>
+    </table>
+</div>
+
+
+<!------------------------ Recommended card box---------------->
+<div class="container py-5">
+
+    <form action="/home" method="POST">
+        <!-- First Row --->
+        <h3 class="font-weight-normal mb-1">Order History</h3>
+        <br>
+
+        <div class="row pb-5 mb-4">
+
+
+            {% for output in books %}
+
+
+            <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                <!-- Card-->
+                <div class="card rounded shadow-sm border-3">
+                    <center>
+                        <div class="card-body p-4 myCard">
+                            <br>
+                            <h5 style="height: 40px;">Order Id: {{output['order_id']}}</h5>
+
+                            <img src="{{output['image_url']}}" alt="" height="150px" width="150px" style="width: 150px; height: 150px;" class="img-fluid d-block mx-auto mb-3">
+                            <h5 style="height: 40px;">{{output['productName']}} ({{output['size']}})
+
+                                <br>
+                                <br> Total: {{output['finalPrice']}} Rs.
+                            </h5>
+                            <br>
+                            <br>
+
+                            <br>
+                            <p style="height: 40px;" class="small text-muted font-italic">{{output['subCategory']}}</p>
+                            <br>
+                            <p style="height: 60px; font-size: 18px; color: black;" class="small text-muted font-bold">{{output['username']}}</p>
+
+                            <a type="submit" href="/viewBook?tittle={{output['productName']}}" class="btn btn-primary" style="margin-top: 5px;;" name="search" value="{{output['productName']}}">View Product</a>
+                            <br>
+                            <br>
+                            <a href="/sell?order_id={{output['order_id']}}&username={{output['username']}}" style="height: 60px; width: 100px;" class="btn btn-danger">Delivered Successfully</a>
+
+
+                        </div>
+                    </center>
+
+                </div>
+            </div>
+
+            {% endfor %}
+
+        </div>
+
+
+    </form>
+</div>
+
+{% endblock %}

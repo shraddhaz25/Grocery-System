@@ -1,0 +1,280 @@
+{% extends 'home/layout.html' %} {% block title %} {{ title }} {% endblock %}
+
+<head>
+    <title>Better Buys Everyday Essential Comparision Application</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=10, initial-scale=1">
+
+</head>
+
+
+{% block content %}
+
+
+
+<style>
+    .myCard {
+        margin-left: 0px;
+        margin-right: 0px;
+        /* HOVER OFF */
+        transition: all 0.5s ease-in-out;
+    }
+    
+    .bg-text {
+        background-color: rgb(0, 0, 0);
+        /* Fallback color */
+        background-color: rgba(0, 0, 0, 0.4);
+        /* Black w/opacity/see-through */
+        color: white;
+        font-weight: bold;
+        border: 3px solid #f1f1f1;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 2;
+        width: auto;
+        padding: 20px;
+        align-content: center;
+        align-items: center;
+    }
+    
+    .myCard:hover {
+        box-shadow: 5px 5px 20px 10px #00B4CC;
+        transition: all 0.5s ease-in-out;
+    }
+    
+    .myCard-img-top {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+    
+    @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+    .search {
+        position: relative;
+        display: flex;
+    }
+    
+    .searchTerm {
+        width: 100%;
+        border: 3px solid #00B4CC;
+        border-right: none;
+        padding: 5px;
+        height: 50px;
+        border-radius: 5px 0 0 5px;
+        outline: none;
+        color: #010a06;
+    }
+    
+    .searchTerm:focus {
+        color: #00B4CC;
+    }
+    
+    .searchButton {
+        width: 80px;
+        height: 50px;
+        border: 1px solid #00B4CC;
+        background: #00B4CC;
+        text-align: center;
+        color: #fff;
+        border-radius: 0 5px 5px 0;
+        cursor: pointer;
+        font-size: 20px;
+    }
+    /*Resize the wrap to see the search bar change!*/
+    
+    .wrap {
+        width: 50%;
+        height: 36px;
+    }
+    
+    .parent {
+        text-align: center;
+    }
+    
+    .child {
+        display: inline-block;
+    }
+</style>
+
+<body style="background-color: white;">
+
+
+    <div class='parent'>
+        <div class='child'>
+            <img src="https://onlinewebdesign.co.uk/img/ecommerce.gif" width="300px" height="300px">
+        </div>
+        <div class='child'>
+            <p style="font-family:Tahoma; font-size: xx-large;">Welcome back, {{ username }} !!</p>
+            <p style="font-family:Tahoma; font-size: xxx-large;">Better Buys Everyday Essential Comparision Application</h2>
+
+        </div>
+    </div>
+    <!-------------------------------- Search box--------------------->
+    <div class="container1" style=" width: 100%; margin-left: 0%;">
+
+        <h2 class="font-weight-bold mb-1">
+
+
+
+    </div>
+
+
+    <section class="banner">
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner" role="listbox">
+
+
+                <div class="carousel-item active">
+                    <img width="100%" class="d-block img-fluid banner-img" src="/static/banner/1.png" alt="slide">
+                </div>
+
+                <div class="carousel-item">
+                    <img width="100%" class="d-block img-fluid banner-img" src="/static/banner/2.png" alt="Slide">
+                </div>
+
+                <div class="carousel-item">
+                    <img width="100%" class="d-block img-fluid banner-img" src="/static/banner/3.png" alt="Slide">
+                </div>
+
+                <div class="carousel-item">
+                    <img width="100%" class="d-block img-fluid banner-img" src="/static/banner/4.png" alt="Slide">
+                </div>
+
+                <div class="carousel-item">
+                    <img width="100%" class="d-block img-fluid banner-img" src="/static/banner/5.png" alt="Slide">
+                </div>
+
+                <div class="carousel-item">
+                    <img width="100%" class="d-block img-fluid banner-img" src="/static/banner/6.png" alt="Slide">
+                </div>
+
+            </div>
+            <!-- e carousel-inner -->
+
+        </div>
+        <!-- e carousel -->
+    </section>
+    <!-- e section -->
+
+
+
+    <br>
+    <br>
+    <center>
+
+
+        <form action="/home" method="POST">
+            <div class="wrap">
+                <div class="search">
+                    <input type="text" step="1" class="searchTerm" placeholder="What are you looking for?" id="tags" name="search" required autocomplete="name" list="book_list"><br>
+                    <button type="submit" name="submit" class="searchButton">
+                    <i class="fa fa-search"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </center>
+
+
+
+
+    <!------------------------ Recommended card box---------------->
+    <div class="container1 py-5" style=" width: 100%; margin-left: 0%;">
+
+        <form action="/home" method="POST">
+            <!-- First Row --->
+            <center>
+                <h3 class="font-weight-normal mb-1">Top Products For You.</h3>
+                <p class="font-italic text-muted mb-4">Select any of the product to get more recommendation.</p>
+            </center>
+
+            <div class="row pb-5 mb-4">
+
+
+                {% for output in rec_books %}
+
+                <div class="col-lg-3 col-md-6 mb-4 mb-lg-0">
+                    <!-- Card-->
+                    <div class="card rounded shadow-sm border-2 " style="margin-bottom: 20px;">
+                        <div class="card-body p-4 myCard">
+
+                            <img src="{{output['image_url']}}" alt="" height="150px" width="150px" style="width: 150px; height: 150px;" class="img-fluid d-block mx-auto mb-3">
+                            <center>
+                                <h5 style="height: 60px;">{{output['productName']}} <br> ({{output['size']}})</h5><br>
+                                <p style="height: 30px;" class="medium text-muted font-italic">{{output['subCategory']}}</p>
+                                <button type="submit" class="btn button-group" style="background-color: rgb(2, 77, 48); color: white;" name="search" value="{{output['productName']}}">Get Similar Product</a></button>
+                                <br>
+                                <a type="submit" href="/viewBook?tittle={{output['productName']}}" class="btn btn-danger" style="margin-top: 5px;;" name="search" value="{{output['productName']}}">View</a>
+                            </center>
+                        </div>
+                    </div>
+                </div>
+
+                {% endfor %}
+
+            </div>
+
+
+        </form>
+    </div>
+
+
+</body>
+
+
+
+{% endblock %}
+
+
+<script type="text/javascript">
+    /* preloader */
+    $(window).on('load', function() {
+        if (readCookie('referer') == null) {
+            $('.preloader-container').delay(500).fadeOut('slow');
+            createCookie('referer', 1, 0);
+
+        }
+
+        if (readCookie('referer') != null) {
+
+            $('.preloader-container').hide();
+        }
+    });
+
+    /* functions to create and read cookies */
+    function createCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 500));
+            var expires = "; expires=" + date.toGMTString();
+        } else var expires = "";
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+
+    /* 2 carousel */
+    $('#carousel-2').carousel({
+        interval: 500,
+        wrap: true,
+        keyboard: true
+    });
+
+    $('#demo').carousel({
+        interval: 500,
+        wrap: true,
+        keyboard: true
+    });
+</script>

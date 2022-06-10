@@ -1,0 +1,646 @@
+productid,productName,subCategory,size,finalPrice,image_url,comb,available
+1501,Red Label Natural Care,Tea & Coffee,500 gm,325,http://143.110.186.55:8080/vf-api/android/productImage/Red Label Natural Care/jpg,red label natural care tea & coffee,yes
+1502,Red Label Natural Care,Tea & Coffee,250 gm,165,http://143.110.186.55:8080/vf-api/android/productImage/Red Label Natural Care/jpg,red label natural care tea & coffee,yes
+1503,Red Label 100gm,Tea & Coffee,100 gm,40,http://143.110.186.55:8080/vf-api/android/productImage/Red Label/jpg,red label 100gm tea & coffee,yes
+1504,Red Label 500gm,Tea & Coffee,500 gm,285,http://143.110.186.55:8080/vf-api/android/productImage/Red Label/jpg,red label 500gm tea & coffee,yes
+1505,Red Label 250gm,Tea & Coffee,250 gm,145,http://143.110.186.55:8080/vf-api/android/productImage/Red Label/jpg,red label 250gm tea & coffee,yes
+1506,Tajmahal Tea 250gm,Tea & Coffee,250 gm,200,http://143.110.186.55:8080/vf-api/android/productImage/Tajmahal/jpg,tajmahal tea 250gm tea & coffee,yes
+1507,Tajmahal,Tea & Coffee,500 gm,385,http://143.110.186.55:8080/vf-api/android/productImage/Tajmahal/jpg,tajmahal tea & coffee,yes
+1508,Wagh Bakri Tea ,Tea & Coffee,250 gm,135,http://143.110.186.55:8080/vf-api/android/productImage/Wagh Bakri/jpg,wagh bakri tea  tea & coffee,yes
+1509,Society tea,Tea & Coffee,250 gm,135,http://143.110.186.55:8080/vf-api/android/productImage/Society/jfif,society tea tea & coffee,yes
+1510,Wagh Bakri Tea ,Tea & Coffee,500 gm,270,http://143.110.186.55:8080/vf-api/android/productImage/Wagh Bakri/jpg,wagh bakri tea  tea & coffee,yes
+1511,Lipton green tea,Tea & Coffee,100 gm,150,http://143.110.186.55:8080/vf-api/android/productImage/Lipton green tea/jpg,lipton green tea tea & coffee,yes
+1512,Nescafe Classic Coffee,Tea & Coffee,50 gm,165,http://143.110.186.55:8080/vf-api/android/productImage/Nescafe Classic/jpg,nescafe classic coffee tea & coffee,yes
+1513,Nescafe Classic Coffee,Tea & Coffee,25 gm,80,http://143.110.186.55:8080/vf-api/android/productImage/Nescafe Classic/jpg,nescafe classic coffee tea & coffee,yes
+1514,Bru Instant,Tea & Coffee,50 gm,60,http://143.110.186.55:8080/vf-api/android/productImage/Bru Instant/jpg,bru instant tea & coffee,yes
+1516,Saffola Gold Oil ,Cooking Oil,1 Ltr,215,http://143.110.186.55:8080/vf-api/android/productImage/Saffola Gold Oil/jpg,saffola gold oil  cooking oil,yes
+1517,Dhara Groundnut Oil,Cooking Oil,1 Ltr,225,http://143.110.186.55:8080/vf-api/android/productImage/Dhara cooking oil/jpg,dhara groundnut oil cooking oil,yes
+1518,Kings Soyabean Refined Oil ,Cooking Oil,1 Ltr,190,http://143.110.186.55:8080/vf-api/android/productImage/Kings Soyabean Oil/jpg,kings soyabean refined oil  cooking oil,yes
+1519,Gemini Mustard Oil,Cooking Oil,1 Ltr,230,http://143.110.186.55:8080/vf-api/android/productImage/gemini mustard oil/jpg,gemini mustard oil cooking oil,yes
+1521,Fortune Sunflower Refined Oil ,Cooking Oil,1 ltr,190,http://143.110.186.55:8080/vf-api/android/productImage/Fortune Sunflower Refined Oil 1Ltr/jpg,fortune sunflower refined oil  cooking oil,yes
+1522,Fortune Sunflower Refined Oil ,Cooking Oil,5 Ltrs,1075,http://143.110.186.55:8080/vf-api/android/productImage/Fortune Sunflower Refined Oil/jpg,fortune sunflower refined oil  cooking oil,yes
+1523,Tulsi Ricebran Oil,Cooking Oil,1 Ltr,200,http://143.110.186.55:8080/vf-api/android/productImage/cooking-oil-250x250/png,tulsi ricebran oil cooking oil,yes
+1524,Bajaj Almond Drops ,Hair Oil,100 ml,69,http://143.110.186.55:8080/vf-api/android/productImage/Bajaj Almond Drops/jpg,bajaj almond drops  hair oil,yes
+1525,Parachute Jasmine Hair Oil,Hair Oil,90 ml,39,http://143.110.186.55:8080/vf-api/android/productImage/parachute Jasmine Hair oil/jfif,parachute jasmine hair oil hair oil,yes
+1526,Bajaj Almond Drops ,Hair Oil,200 ml,133,http://143.110.186.55:8080/vf-api/android/productImage/Bajaj Almond Drops/jpg,bajaj almond drops  hair oil,yes
+1528,Nihar Awla Hair Oil,Hair Oil,140 ml,37,http://143.110.186.55:8080/vf-api/android/productImage/Nihar Awla Hair oil/jpg,nihar awla hair oil hair oil,yes
+1529,Parachute Hair Oil ,Hair Oil,175 ml,70,http://143.110.186.55:8080/vf-api/android/productImage/Parachute Hair Oil/jpg,parachute hair oil  hair oil,yes
+1530,Kesh King Ayurvedic Hair Oil,Hair Oil,120 ml,170,http://143.110.186.55:8080/vf-api/android/productImage/Kesh King Ayurvedic Hair oil/jpeg,kesh king ayurvedic hair oil hair oil,yes
+1531,Navaratna Hair Oil,Hair Oil,100 ml,80,http://143.110.186.55:8080/vf-api/android/productImage/Navartna Hair Oil/jpg,navaratna hair oil hair oil,yes
+1533,Lux Soap (Pack of 5),Bath Soap,100 gm,140,http://143.110.186.55:8080/vf-api/android/productImage/Lux Soap/jpg,lux soap (pack of 5) bath soap,yes
+1535,Park Avenue,Bath Soap,75 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Park Avenue/jpg,park avenue bath soap,yes
+1536,Santoor Soap (Pack of 4),Bath Soap,100 gm,130,http://143.110.186.55:8080/vf-api/android/productImage/Santoor Soap/jpg,santoor soap (pack of 4) bath soap,yes
+1537,Pears Soap (Pack of 4),Bath Soap,75 gm,129,http://143.110.186.55:8080/vf-api/android/productImage/Pears Soap/jpg,pears soap (pack of 4) bath soap,yes
+1538,Dove Soap(Pack of 3 ),Bath Soap,1 pack,129,http://143.110.186.55:8080/vf-api/android/productImage/Dove Soap/jpg,dove soap(pack of 3 ) bath soap,yes
+1539,Dettol (Pack of 4),Bath Soap,125 gm,229,http://143.110.186.55:8080/vf-api/android/productImage/Dettol Soap/jpg,dettol (pack of 4) bath soap,yes
+1540,Dettol (Pack of 3),Bath Soap,75 gm,110,http://143.110.186.55:8080/vf-api/android/productImage/Dettol Soap/jpg,dettol (pack of 3) bath soap,yes
+1541,Lifebuoy Soap(Pack of 4),Bath Soap,125 gm,115,http://143.110.186.55:8080/vf-api/android/productImage/Lifebuoy Soap/jpg,lifebuoy soap(pack of 4) bath soap,yes
+1542,Medimix ( Pack of 3),Bath Soap,125 gm,125,http://143.110.186.55:8080/vf-api/android/productImage/Medimix Soap/jpg,medimix ( pack of 3) bath soap,yes
+1543,Himalaya Baby soap,Bath Soap,75 gm,50,http://143.110.186.55:8080/vf-api/android/productImage/Hiomalaya Baby Soap/jpg,himalaya baby soap bath soap,yes
+1544,Cinthol ( Pack of 4),Bath Soap,75 gm,122,http://143.110.186.55:8080/vf-api/android/productImage/Cinthol Soap/jpg,cinthol ( pack of 4) bath soap,yes
+1545,Himalaya Neem And turmeric soap,Bath Soap,75 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/Himalaya neem and turmeric soap/jpg,himalaya neem and turmeric soap bath soap,yes
+1546,Cinthol ( Pack of 4),Bath Soap,100 gm,102,http://143.110.186.55:8080/vf-api/android/productImage/Cinthol/jpg,cinthol ( pack of 4) bath soap,yes
+1547,Johnson Baby Soap ,Bath Soap,50 gm,36,http://143.110.186.55:8080/vf-api/android/productImage/Johnson Baby Soap/jpg,johnson baby soap  bath soap,yes
+1548,Savlon Glycerin Soap,Bath Soap,125 gm,50,http://143.110.186.55:8080/vf-api/android/productImage/Savlon Soap/jpg,savlon glycerin soap bath soap,yes
+1550,Colgate ,Toothbrush & Toothpaste,200 gm,103,http://143.110.186.55:8080/vf-api/android/productImage/Colgate 200gm/jpg,colgate  toothbrush & toothpaste,yes
+1551,Colgate ,Toothbrush & Toothpaste,100 gm,56,http://143.110.186.55:8080/vf-api/android/productImage/Colgate 100gm/jpg,colgate  toothbrush & toothpaste,yes
+1552,Colgate ,Toothbrush & Toothpaste,46 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Colgate 46gm/jpg,colgate  toothbrush & toothpaste,yes
+1553,Colgate Supper Saver Pack,Toothbrush & Toothpaste,500 gm,217,http://143.110.186.55:8080/vf-api/android/productImage/Colgate 500gm/jpg,colgate supper saver pack toothbrush & toothpaste,yes
+1554,Pepsodent,Toothbrush & Toothpaste,200 gm,90,http://143.110.186.55:8080/vf-api/android/productImage/Pepsodent-Toothpaste/jpg,pepsodent toothbrush & toothpaste,yes
+1555,Pepsodent Toothpest,Toothbrush & Toothpaste,100 gm,47,http://143.110.186.55:8080/vf-api/android/productImage/Pepsodent-Toothpaste/jpg,pepsodent toothpest toothbrush & toothpaste,yes
+1556,Colgate Maxfresh,Toothbrush & Toothpaste,84 gm,55,http://143.110.186.55:8080/vf-api/android/productImage/Colgate Maxfresh/jpg,colgate maxfresh toothbrush & toothpaste,yes
+1557,Colgate Maxfresh,Toothbrush & Toothpaste,150 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Colgate Maxfresh/jpg,colgate maxfresh toothbrush & toothpaste,yes
+1558,Patanjali Dant Kanti,Toothbrush & Toothpaste,200 gm,95,http://143.110.186.55:8080/vf-api/android/productImage/Patanjali Dant Kanti/jpg,patanjali dant kanti toothbrush & toothpaste,yes
+1559,Dabur Meswak Toothpaste,Toothbrush & Toothpaste,200 gm,102,http://143.110.186.55:8080/vf-api/android/productImage/Dabur Meswak Toothpest/jfif,dabur meswak toothpaste toothbrush & toothpaste,yes
+1560,Patanjali Dant Kanti,Toothbrush & Toothpaste,100 gm,50,http://143.110.186.55:8080/vf-api/android/productImage/Patanjali 100gm/jpg,patanjali dant kanti toothbrush & toothpaste,yes
+1561,Dabur Meswak ,Toothbrush & Toothpaste,100 gm,58,http://143.110.186.55:8080/vf-api/android/productImage/Dabur Meswak Toothpest/jfif,dabur meswak  toothbrush & toothpaste,yes
+1562,Sensodyne Fresh Gel,Toothbrush & Toothpaste,75 gm,115,http://143.110.186.55:8080/vf-api/android/productImage/Sensodyne Fresh Gel/jpg,sensodyne fresh gel toothbrush & toothpaste,yes
+1563,Sensodyne Fresh Gel,Toothbrush & Toothpaste,150 gm,199,http://143.110.186.55:8080/vf-api/android/productImage/Sensodyne Fresh Gel/jpg,sensodyne fresh gel toothbrush & toothpaste,yes
+1564,Close up Red Hot ,Toothbrush & Toothpaste,150 gm,90,http://143.110.186.55:8080/vf-api/android/productImage/Closeup Red Hot/jpg,close up red hot  toothbrush & toothpaste,yes
+1565,Babool Super Saver pack,Toothbrush & Toothpaste,350 gm,100,http://143.110.186.55:8080/vf-api/android/productImage/babool toothpaste/jpg,babool super saver pack toothbrush & toothpaste,yes
+1566,Babool,Toothbrush & Toothpaste,100 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/babool toothpaste/jpg,babool toothbrush & toothpaste,yes
+1567,Oral B Tooth Brush ,Toothbrush & Toothpaste,1 pcs,20,http://143.110.186.55:8080/vf-api/android/productImage/Oral B Brush/jpg,oral b tooth brush  toothbrush & toothpaste,yes
+1568,Close up ,Toothbrush & Toothpaste,80 gm,50,http://143.110.186.55:8080/vf-api/android/productImage/Closeup Red Hot/jpg,close up  toothbrush & toothpaste,yes
+1571,Everest Shahi biryani Masala,Spices,25 gm,36,http://143.110.186.55:8080/vf-api/android/productImage/Shahi biryani Masala/jpg,everest shahi biryani masala spices,yes
+1572,Everest chhole Masala,Spices,50 gm,35,http://143.110.186.55:8080/vf-api/android/productImage/Everest chhole masala/jpg,everest chhole masala spices,yes
+1573,Everest Samber masala,Spices,50 gm,34,http://143.110.186.55:8080/vf-api/android/productImage/sambar masala/jpg,everest samber masala spices,yes
+1574,Everest Pavbhaji Masala,Spices,50 gm,37,http://143.110.186.55:8080/vf-api/android/productImage/Pav Bhaji Masala/jpg,everest pavbhaji masala spices,yes
+1575,Everest Meat Masala,Spices,50 gm,39,http://143.110.186.55:8080/vf-api/android/productImage/Everest Meat Masala/jpg,everest meat masala spices,yes
+1576,Everest Fish Curry Masala,Spices,50 gm,40,http://143.110.186.55:8080/vf-api/android/productImage/fish curry masala/jpg,everest fish curry masala spices,yes
+1577,Everest Kasuri Methi,Spices,25 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/kasuri methi/jfif,everest kasuri methi spices,yes
+1578,Everest Chicken Masala,Spices,50 gm,39,http://143.110.186.55:8080/vf-api/android/productImage/chicken masala/jpg,everest chicken masala spices,yes
+1579,Sargam Soap,Cloth Wash,25 gm,10,http://143.110.186.55:8080/vf-api/android/productImage/Sargam Soap/jpg,sargam soap cloth wash,yes
+1580,Everest Shahi Paneer Masala,Spices,50 gm,44,http://143.110.186.55:8080/vf-api/android/productImage/Everest Shahi Paneer Masala/jpg,everest shahi paneer masala spices,yes
+1581,Suhana Matar Paneer Mix,Spices,50 gm,40,http://143.110.186.55:8080/vf-api/android/productImage/mater paneer mix/jpg,suhana matar paneer mix spices,yes
+1582,Rin Soap ,Cloth Wash,150 gm,10,http://143.110.186.55:8080/vf-api/android/productImage/Rin 10/jpeg,rin soap  cloth wash,yes
+1583,Rin Big Bar,Cloth Wash,250 gm,18,http://143.110.186.55:8080/vf-api/android/productImage/Rin Big Bar/jpg,rin big bar cloth wash,yes
+1584,Surf excel,Cloth Wash,84 gm,10,http://143.110.186.55:8080/vf-api/android/productImage/Surf excel/jpg,surf excel cloth wash,yes
+1585,Suhana Palak Paneer mix,Spices,50 gm,40,http://143.110.186.55:8080/vf-api/android/productImage/palak paneer mix/jpg,suhana palak paneer mix spices,yes
+1586,Surf excel Big Bar,Cloth Wash,250 gm,32,http://143.110.186.55:8080/vf-api/android/productImage/Surf excel/jpg,surf excel big bar cloth wash,yes
+1588,Rin Powder,Cloth Wash,500 gm,42,http://143.110.186.55:8080/vf-api/android/productImage/Rin Powder/png,rin powder cloth wash,yes
+1589,Rin Powder,Cloth Wash,1 Kg,86,http://143.110.186.55:8080/vf-api/android/productImage/Rin Powder/png,rin powder cloth wash,yes
+1592,Ghadi Washing Powder ,Cloth Wash,500 gm,32,http://143.110.186.55:8080/vf-api/android/productImage/Ghadi Powder/jpg,ghadi washing powder  cloth wash,yes
+1593,Ghadi Washing Powder ,Cloth Wash,1 Kg,63,http://143.110.186.55:8080/vf-api/android/productImage/Ghadi Powder/jpg,ghadi washing powder  cloth wash,yes
+1594,Surf excel Powder ,Cloth Wash,500 gm,66,http://143.110.186.55:8080/vf-api/android/productImage/Surf Excel Powder/jpg,surf excel powder  cloth wash,yes
+1595,Surf excel Powder ,Cloth Wash,1 Kg,130,http://143.110.186.55:8080/vf-api/android/productImage/Surf Excel Powder/jpg,surf excel powder  cloth wash,yes
+1596,Ashirwad Shudhh Chakki Atta,Grains & Legumes,5 kg,201.4,http://143.110.186.55:8080/vf-api/android/productImage/chakki atta/jfif,ashirwad shudhh chakki atta grains & legumes,yes
+1598,Ashirvad Shuddh Chakki Atta ,Grains & Legumes,10 Kg,401.85,http://143.110.186.55:8080/vf-api/android/productImage/Ahirvad Chakki Atta/png,ashirvad shuddh chakki atta  grains & legumes,yes
+1601,Tide Washing Powder ,Cloth Wash,500 gm,58,http://143.110.186.55:8080/vf-api/android/productImage/Tide Powder/png,tide washing powder  cloth wash,yes
+1602,Tide Washing Powder ,Cloth Wash,1 Kg,124,http://143.110.186.55:8080/vf-api/android/productImage/Tide Powder/png,tide washing powder  cloth wash,yes
+1603,Tide Bar ,Cloth Wash,200 gm,10,http://143.110.186.55:8080/vf-api/android/productImage/Tide Soap/jpg,tide bar  cloth wash,yes
+1604,Himalaya Neem Face wash,Face Wash,50 ML,70,http://143.110.186.55:8080/vf-api/android/productImage/Himalaya face wash/jpg,himalaya neem face wash face wash,yes
+1605,Pears Face wash,Face Wash,60 ml,145.5,http://143.110.186.55:8080/vf-api/android/productImage/pears face wash/jpg,pears face wash face wash,yes
+1606,Arial Washing Powder,Cloth Wash,1 Kg,136,http://143.110.186.55:8080/vf-api/android/productImage/Ariel Washing Powder/jpg,arial washing powder cloth wash,yes
+1607,Natures Papaya Facewash,Face Wash,65 ml,65,http://143.110.186.55:8080/vf-api/android/productImage/papaya face wash/jpg,natures papaya facewash face wash,yes
+1608,Savlon Moisture Shield,Hand Wash ,750 ml,99,http://143.110.186.55:8080/vf-api/android/productImage/Savlon Hand Wash/jpg,savlon moisture shield hand wash ,yes
+1609,Savlon Herbal Sensitive ,Hand Wash ,750 ml,99,http://143.110.186.55:8080/vf-api/android/productImage/Savlon Harbal Sensetive/jpg,savlon herbal sensitive  hand wash ,yes
+1610,Savlon Deep  Clean ,Hand Wash ,725 ml,99,http://143.110.186.55:8080/vf-api/android/productImage/Savlon Deep Clean/jpeg,savlon deep  clean  hand wash ,yes
+1611,Dettol Combo Pack,Hand Wash ,200 ml,90,http://143.110.186.55:8080/vf-api/android/productImage/Dettol Combo Pack/jpg,dettol combo pack hand wash ,yes
+1612,Santoor Gentle Hand Wash ,Hand Wash ,180 ml,57,http://143.110.186.55:8080/vf-api/android/productImage/Santoor Hand Wash/jpeg,santoor gentle hand wash  hand wash ,yes
+1613,Lifebuoy Combo Pack,Hand Wash ,750 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Lifebuoy Hand Wash/jpg,lifebuoy combo pack hand wash ,yes
+1614,Park Avenue Good Morning,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Park Avenue Good Morning/jpg,park avenue good morning deo,yes
+1615,Park Avenue Alpha,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Park Avenue Alpha/jpeg,park avenue alpha deo,yes
+1616,Park Avenue Cool Blue,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Park Avenue Cool Blue/jpg,park avenue cool blue deo,yes
+1617,Park Avenue Storm,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Park Avenue Storm/jpg,park avenue storm deo,yes
+1618,Set Wet Miscief Avatar ,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Set Wet Miscief Avatar/jpg,set wet miscief avatar  deo,yes
+1619,Set Wet Allure Avatar,Deo,150 gm,199,http://143.110.186.55:8080/vf-api/android/productImage/Set Wet Allure Avatar/jpg,set wet allure avatar deo,yes
+1620,Nivea Men ,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Men/jpg,nivea men  deo,yes
+1621,Fogg Monarch,Deo,120 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Fogg Monarch/jpg,fogg monarch deo,yes
+1622,Fogg Napoleon,Deo,120 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Fogg Napoleon/jpg,fogg napoleon deo,yes
+1623,Fogg Marco,Deo,120 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Fogg Macro/jpg,fogg marco deo,yes
+1624,Axe Signature ,Deo,122 ml,210,http://143.110.186.55:8080/vf-api/android/productImage/Axe Signature/jpg,axe signature  deo,yes
+1625,Garnier Natural Brown ,Mehandi,1 pkt,39,http://143.110.186.55:8080/vf-api/android/productImage/Garnier Natural Brown/jpg,garnier natural brown  mehandi,yes
+1626,Garnier Brown Black,Mehandi,1 pkt,39,http://143.110.186.55:8080/vf-api/android/productImage/Garnier Brown Black/jpg,garnier brown black mehandi,yes
+1627,Nisha Natural Black ,Mehandi,1 pkt,15,http://143.110.186.55:8080/vf-api/android/productImage/Nisha Natural Black/jpg,nisha natural black  mehandi,yes
+1628,Godrej Nupur Henna ,Mehandi,1 pkt,15,http://143.110.186.55:8080/vf-api/android/productImage/Godrej Nupur Henna/jpg,godrej nupur henna  mehandi,yes
+1629,Streax Insta Natural Black,Mehandi,1 pkt,20,http://143.110.186.55:8080/vf-api/android/productImage/Streax Insta/jpg,streax insta natural black mehandi,yes
+1630,Indica Natural Black,Mehandi,1 Box,160,http://143.110.186.55:8080/vf-api/android/productImage/Indica Natural Black/jpg,indica natural black mehandi,yes
+1631,Harpic Bathroom Cleaner Lemon,Toilet & Floor Cleaner,500 ml,99,http://143.110.186.55:8080/vf-api/android/productImage/Harpic Bathroom Cleaner/jpg,harpic bathroom cleaner lemon toilet & floor cleaner,yes
+1632,Lizol Floral ,Toilet & Floor Cleaner,200 ml,38,http://143.110.186.55:8080/vf-api/android/productImage/Lizol Floral/jpeg,lizol floral  toilet & floor cleaner,yes
+1633,Lizol Citrus,Toilet & Floor Cleaner,200 ml,38,http://143.110.186.55:8080/vf-api/android/productImage/Lizol Citrus/jpg,lizol citrus toilet & floor cleaner,yes
+1634,Lizol Citrus,Toilet & Floor Cleaner,500 ml,98,http://143.110.186.55:8080/vf-api/android/productImage/Lizol Citrus/jpg,lizol citrus toilet & floor cleaner,yes
+1635,Lizol Floral ,Toilet & Floor Cleaner,500 ml,103,http://143.110.186.55:8080/vf-api/android/productImage/Lizol Floral/jpeg,lizol floral  toilet & floor cleaner,yes
+1636,Lizol Jasmine,Toilet & Floor Cleaner,500 ml,98,http://143.110.186.55:8080/vf-api/android/productImage/Lizol Jasmine/jpg,lizol jasmine toilet & floor cleaner,yes
+1637,Dettol Antiseptic Liquid ,Toilet & Floor Cleaner,250 ml,116,http://143.110.186.55:8080/vf-api/android/productImage/Dettol Antiseptic Liquid/jpg,dettol antiseptic liquid  toilet & floor cleaner,yes
+1638,Nivea Men Dark Spot,Face Wash,50 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Men Dark Spot/jpg,nivea men dark spot face wash,yes
+1639,Nivea Men Oil Control,Face Wash,50 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Men Oil Control/png,nivea men oil control face wash,yes
+1640,Garnier Men Acno Fight,Face Wash,50 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Garnier Men Acno Fight/jpeg,garnier men acno fight face wash,yes
+1641,Garnier Men Turbo Bright,Face Wash,50 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Garnier Men Turbo Bright/jpg,garnier men turbo bright face wash,yes
+1642,Pond's Pure Detox,Face Wash,50 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Ponds Pure Detox/jpg,pond's pure detox face wash,yes
+1649,Clinic Plus+,Shampoo & Conditioner,1 pkt,1,http://143.110.186.55:8080/vf-api/android/productImage/Clinic Plus +/jpeg,clinic plus+ shampoo & conditioner,yes
+1650,Dove Hair Fall Rescue Shampoo,Shampoo & Conditioner,80 ml,68,http://143.110.186.55:8080/vf-api/android/productImage/Dove Hair Fall Rescue/jpg,dove hair fall rescue shampoo shampoo & conditioner,yes
+1651,Dove Dryness Care Shampoo,Shampoo & Conditioner,80 ml,68,http://143.110.186.55:8080/vf-api/android/productImage/Dove Dryness Care/jpg,dove dryness care shampoo shampoo & conditioner,yes
+1652,Dove Dandruff Care ,Shampoo & Conditioner,80 ml,71,http://143.110.186.55:8080/vf-api/android/productImage/Dove Anti Dandruff/jpg,dove dandruff care  shampoo & conditioner,yes
+1653,Dove Intense Repair,Shampoo & Conditioner,80 ml,68,http://143.110.186.55:8080/vf-api/android/productImage/Dove Intense Repair/jpg,dove intense repair shampoo & conditioner,yes
+1654,Dove Dryness Care Conditioner,Shampoo & Conditioner,80 ml,90,http://143.110.186.55:8080/vf-api/android/productImage/Dove Dryness Care Conditioner/jpg,dove dryness care conditioner shampoo & conditioner,yes
+1655,Dove Intense Repair ,Shampoo & Conditioner,75 ml,90,http://143.110.186.55:8080/vf-api/android/productImage/Dove Intense Repair/jpg,dove intense repair  shampoo & conditioner,yes
+1656,Clinic Plus Strong & Long,Shampoo & Conditioner,80 ml,52,http://143.110.186.55:8080/vf-api/android/productImage/Clinic Plus/jpg,clinic plus strong & long shampoo & conditioner,yes
+1657,TRESemme ,Shampoo & Conditioner,85 ml,55,http://143.110.186.55:8080/vf-api/android/productImage/TRESemme/jpg,tresemme  shampoo & conditioner,yes
+1658,TRESemme Keratin Smooth,Shampoo & Conditioner,85 ml,70,http://143.110.186.55:8080/vf-api/android/productImage/TRESemme Keratin Sooth/jpg,tresemme keratin smooth shampoo & conditioner,yes
+1659,Sunsilk Black & Shine,Shampoo & Conditioner,80 ml,58,http://143.110.186.55:8080/vf-api/android/productImage/Sunsilk Shampoo/jpg,sunsilk black & shine shampoo & conditioner,yes
+1660,KS Spark  Deo,Deo,150 ml,142,http://143.110.186.55:8080/vf-api/android/productImage/KS SPARK/jpeg,ks spark  deo deo,yes
+1661,Chilli Powder ,Spices,100 gm,33,http://143.110.186.55:8080/vf-api/android/productImage/Chilli Powder/jpg,chilli powder  spices,yes
+1662,Chilli Powder ,Spices,200 gm,64,http://143.110.186.55:8080/vf-api/android/productImage/Chilli Powder/jpg,chilli powder  spices,yes
+1663,Chilli Powder ,Spices,500 gm,158,http://143.110.186.55:8080/vf-api/android/productImage/Chilli Powder/jpg,chilli powder  spices,yes
+1664,Coriander Powder ,Spices,100 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/Coriander Powder/jpg,coriander powder  spices,yes
+1665,Coriander Powder ,Spices,200 gm,52,http://143.110.186.55:8080/vf-api/android/productImage/Coriander Powder/jpg,coriander powder  spices,yes
+1666,Coriander Powder ,Spices,50 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/Coriander Powder/jpg,coriander powder  spices,yes
+1667,Turmeric Powder,Spices,100 gm,28,http://143.110.186.55:8080/vf-api/android/productImage/Turmeric Powder/jpg,turmeric powder spices,yes
+1668,Turmeric Powder,Spices,200 gm,55,http://143.110.186.55:8080/vf-api/android/productImage/Turmeric Powder/jpg,turmeric powder spices,yes
+1669,Turmeric Powder,Spices,50 gm,14,http://143.110.186.55:8080/vf-api/android/productImage/Turmeric Powder/jpg,turmeric powder spices,yes
+1670,Goda Masala,Spices,50 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Goda Masala/jpg,goda masala spices,yes
+1671,Goda Masala,Spices,100 gm,49,http://143.110.186.55:8080/vf-api/android/productImage/Goda Masala/jpg,goda masala spices,yes
+1672,Goda Masala,Spices,200 gm,96,http://143.110.186.55:8080/vf-api/android/productImage/Goda Masala/jpg,goda masala spices,yes
+1673,Jeera Powder,Spices,50 gm,19,http://143.110.186.55:8080/vf-api/android/productImage/Jeera Powder/jpg,jeera powder spices,yes
+1674,Jeera Powder,Spices,100 gm,37,http://143.110.186.55:8080/vf-api/android/productImage/Jeera Powder/jpg,jeera powder spices,yes
+1675,Parachute Hair Oil ,Hair Oil,100 ml,38,http://143.110.186.55:8080/vf-api/android/productImage/Parachute Hair Oil/jpg,parachute hair oil  hair oil,yes
+1676,Parle G Biscuit 110gm,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Parle G/jpg,"parle g biscuit 110gm biscuits ,cookies & chocolates",yes
+1677,Parle G Biscuit 250gm,"Biscuits ,Cookies & Chocolates",1 pkt,22,http://143.110.186.55:8080/vf-api/android/productImage/Parle G/jpg,"parle g biscuit 250gm biscuits ,cookies & chocolates",yes
+1678,Parle G Gold 100gm,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Parle G Gold/jpeg,"parle g gold 100gm biscuits ,cookies & chocolates",yes
+1679,Parle G Gold 500gm,"Biscuits ,Cookies & Chocolates",1 pkt,65,http://143.110.186.55:8080/vf-api/android/productImage/Parle G Gold/jpeg,"parle g gold 500gm biscuits ,cookies & chocolates",yes
+1680,Monaco Biscuit,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Monaco/jpg,"monaco biscuit biscuits ,cookies & chocolates",yes
+1681,Monaco Biscuit 200gm,"Biscuits ,Cookies & Chocolates",1 pkt,35,http://143.110.186.55:8080/vf-api/android/productImage/Monaco 200gm/jpg,"monaco biscuit 200gm biscuits ,cookies & chocolates",yes
+1682,Krack Jack Biscuit,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Crack Jack 5 Rs/jpg,"krack jack biscuit biscuits ,cookies & chocolates",yes
+1683,Crack Jack 200gm,"Biscuits ,Cookies & Chocolates",1 pkt,35,http://143.110.186.55:8080/vf-api/android/productImage/Crack Jack/jpg,"crack jack 200gm biscuits ,cookies & chocolates",yes
+1684,Treat Jimjam Biscuit,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Treat Jimjam/jpg,"treat jimjam biscuit biscuits ,cookies & chocolates",yes
+1685,Dark Fantasy Choco Fills ,"Biscuits ,Cookies & Chocolates",1 pkt,35,http://143.110.186.55:8080/vf-api/android/productImage/Dark Fantansy Choco Fills/jpg,"dark fantasy choco fills  biscuits ,cookies & chocolates",yes
+1686,Britania Marie Gold 250gm,"Biscuits ,Cookies & Chocolates",1 pkt,35,http://143.110.186.55:8080/vf-api/android/productImage/Marie Gold/jpg,"britania marie gold 250gm biscuits ,cookies & chocolates",yes
+1687,Britania Nutri Choice Digestive 100gm,"Biscuits ,Cookies & Chocolates",1 pkt,25,http://143.110.186.55:8080/vf-api/android/productImage/Nutri Choce/jpg,"britania nutri choice digestive 100gm biscuits ,cookies & chocolates",yes
+1688,Cadbury Celebrations 118.6gm,"Biscuits ,Cookies & Chocolates",1 pkt,100,http://143.110.186.55:8080/vf-api/android/productImage/Cadbury Celebrations/jpg,"cadbury celebrations 118.6gm biscuits ,cookies & chocolates",yes
+1689,Good Day Cashew Cookies 60gm,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Good Day Cashew Cookies/jpg,"good day cashew cookies 60gm biscuits ,cookies & chocolates",yes
+1690,Good Day Butter Cookies 50gm,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Good Day Butter Choice/jpg,"good day butter cookies 50gm biscuits ,cookies & chocolates",yes
+1691,fortune soya chunks,Grains & Legumes,225 gm,55,http://143.110.186.55:8080/vf-api/android/productImage/Fortune soya chunks/jpg,fortune soya chunks grains & legumes,yes
+1692,Good Day Cashew Cookies 200gm,"Biscuits ,Cookies & Chocolates",1 pkt,40,http://143.110.186.55:8080/vf-api/android/productImage/Good Day Cashew Cookies/jpg,"good day cashew cookies 200gm biscuits ,cookies & chocolates",yes
+1693,nutrella soya chunks,Grains & Legumes,220 gm,60,http://143.110.186.55:8080/vf-api/android/productImage/nutrella soya chunk/jpg,nutrella soya chunks grains & legumes,yes
+1694,Fortune Besan,Grains & Legumes,1 kg,140,http://143.110.186.55:8080/vf-api/android/productImage/fortune besan/jpg,fortune besan grains & legumes,yes
+1695,India Gate Basmati Rice,Grains & Legumes,1 kg,182,http://143.110.186.55:8080/vf-api/android/productImage/india gate basmati rice/jfif,india gate basmati rice grains & legumes,yes
+1696,Hide and Seek 120gm,"Biscuits ,Cookies & Chocolates",1 pkt,30,http://143.110.186.55:8080/vf-api/android/productImage/Hide and Seek/jpg,"hide and seek 120gm biscuits ,cookies & chocolates",yes
+1697,Britania Nutri Choice Digestive 200gm,"Biscuits ,Cookies & Chocolates",1 gm,45,http://143.110.186.55:8080/vf-api/android/productImage/Nutri Choce/jpg,"britania nutri choice digestive 200gm biscuits ,cookies & chocolates",yes
+1698,Maggi Noodles 70 gm pkt,Instant Foods,1 pkt,12,http://143.110.186.55:8080/vf-api/android/productImage/maggi/jfif,maggi noodles 70 gm pkt instant foods,yes
+1699,maggi Noodles 140gm pkt,Instant Foods,1 pkt,24,http://143.110.186.55:8080/vf-api/android/productImage/maggi/jfif,maggi noodles 140gm pkt instant foods,yes
+1700,Maggi Noodles 280gm pkt,Instant Foods,1 pkt,48,http://143.110.186.55:8080/vf-api/android/productImage/maggi/jfif,maggi noodles 280gm pkt instant foods,yes
+1701,Yippee Noodles 405 gms,Instant Foods,1 pkt,72,http://143.110.186.55:8080/vf-api/android/productImage/Yippi Noodles/jfif,yippee noodles 405 gms instant foods,yes
+1702,Yippee Noodles 70gms,Instant Foods,1 pkt,12,http://143.110.186.55:8080/vf-api/android/productImage/Yippi Noodles/jfif,yippee noodles 70gms instant foods,yes
+1703,Sunflower Vanaspati Ghee ,Cooking Oil,1 ltr,185,http://143.110.186.55:8080/vf-api/android/productImage/Sunflower Vanaspati ghee/jpg,sunflower vanaspati ghee  cooking oil,yes
+1704,Sunflower Vanaspati Ghee ,Cooking Oil,500 ml,95,http://143.110.186.55:8080/vf-api/android/productImage/Sunflower Vanaspati ghee/jpg,sunflower vanaspati ghee  cooking oil,yes
+1705,Colgate Zigzag ToothBrush ,Toothbrush & Toothpaste,1 pkt,30,http://143.110.186.55:8080/vf-api/android/productImage/Colgate Zigzag ToothBrush/jpg,colgate zigzag toothbrush  toothbrush & toothpaste,yes
+1706,Veg Hakka Noodles 300 gms,Instant Foods,1 pkt,70,http://143.110.186.55:8080/vf-api/android/productImage/veg Hakka Noodles/jpg,veg hakka noodles 300 gms instant foods,yes
+1707,Bournvita 500gm,Health Drinks,1 pkt,209,http://143.110.186.55:8080/vf-api/android/productImage/Bournvita/jpg,bournvita 500gm health drinks,yes
+1708,Complan 200gm,Health Drinks,1 pkt,125,http://143.110.186.55:8080/vf-api/android/productImage/Complan/jpg,complan 200gm health drinks,yes
+1709,Horlicks Chocolate 500gm,Health Drinks,1 pkt,211,http://143.110.186.55:8080/vf-api/android/productImage/Horlicks Chocolate/png,horlicks chocolate 500gm health drinks,yes
+1710,Johnson Baby Powder ,Face Powder,100 gm,80,http://143.110.186.55:8080/vf-api/android/productImage/Johnson Baby Powder/jpg,johnson baby powder  face powder,yes
+1711,Himalaya Baby Powder ,Face Powder,100 gm,72,http://143.110.186.55:8080/vf-api/android/productImage/Himalaya Baby Powder/jpg,himalaya baby powder  face powder,yes
+1712,Himalaya Anti Dandruff Shampoo,Shampoo & Conditioner,80 ml,62,http://143.110.186.55:8080/vf-api/android/productImage/Himalaya Anti Dandruff Shampoo/jpg,himalaya anti dandruff shampoo shampoo & conditioner,yes
+1713,Cinthol Talk Powder ,Face Powder,1 Box,135,http://143.110.186.55:8080/vf-api/android/productImage/Cinthol Powder/jpg,cinthol talk powder  face powder,yes
+1714,Vim Lemon Bar ,Dish Wash,300 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Vim Lemon Bar/jpg,vim lemon bar  dish wash,yes
+1715,Expert Bar( Pack of 4),Dish Wash,1 pkt,30,http://143.110.186.55:8080/vf-api/android/productImage/Expert Dish Bar/jpg,expert bar( pack of 4) dish wash,yes
+1716,Suruchi Kasuri Methi ,Spices,100 gm,60,http://143.110.186.55:8080/vf-api/android/productImage/Suruchi Kasturi Methi/jpg,suruchi kasuri methi  spices,yes
+1717,Pushp Kasuri Methi ,Spices,100 gm,58,http://143.110.186.55:8080/vf-api/android/productImage/Pushp Kasturi Methi/jpg,pushp kasuri methi  spices,yes
+1719,Parachute Hair Oil ,Hair Oil,100 ml,38,http://143.110.186.55:8080/vf-api/android/productImage/Parachute Hair Oil/jpg,parachute hair oil  hair oil,yes
+1720,Kisan Jam Mix Fruits ,Sauces & Ketchup,200 gm,68,http://143.110.186.55:8080/vf-api/android/productImage/Kisan Jam Mix Fruits/jpg,kisan jam mix fruits  sauces & ketchup,yes
+1721,Maggi Rich Tomato ,Sauces & Ketchup,1000 gm,150,http://143.110.186.55:8080/vf-api/android/productImage/Rich Tomato Ketchup/jpg,maggi rich tomato  sauces & ketchup,yes
+1722,Maggi Rich Tomato ,Sauces & Ketchup,200 gm,62,http://143.110.186.55:8080/vf-api/android/productImage/Rich Tomato Ketchup/jpg,maggi rich tomato  sauces & ketchup,yes
+1723,Green Chilli Sauce 680gm,Sauces & Ketchup,1 Bottle,85,http://143.110.186.55:8080/vf-api/android/productImage/Green Chilli Sauce/jpg,green chilli sauce 680gm sauces & ketchup,yes
+1724,Chilli Sauce 680gm,Sauces & Ketchup,1 Bottle,85,http://143.110.186.55:8080/vf-api/android/productImage/Red Chilli Sauce/jpg,chilli sauce 680gm sauces & ketchup,yes
+1725,Chings Dark Soy Sauce 750gm,Sauces & Ketchup,1 Bottle,85,http://143.110.186.55:8080/vf-api/android/productImage/Chings Dark Soy Sauce/jpg,chings dark soy sauce 750gm sauces & ketchup,yes
+1726,Ujala Classic Vinegar 650g,Sauces & Ketchup,1 Bottle,65,http://143.110.186.55:8080/vf-api/android/productImage/Ujala Classic Vinegar/jpg,ujala classic vinegar 650g sauces & ketchup,yes
+1727,Ezee Liquid Detergent ,Cloth Wash,235 ml,57,http://143.110.186.55:8080/vf-api/android/productImage/Ezee Liquid Detergent/jpeg,ezee liquid detergent  cloth wash,yes
+1728,Cadbury Celebrations 62.2g,"Biscuits ,Cookies & Chocolates",1 pkt,50,http://143.110.186.55:8080/vf-api/android/productImage/Cadbury-Celebration-Pack-Mini---Orange-75g-500x500/jpg,"cadbury celebrations 62.2g biscuits ,cookies & chocolates",yes
+1729,Pril Lime Grease Fighter 155ml,Dish Wash,1 pkt,20,http://143.110.186.55:8080/vf-api/android/productImage/Pril Lime Grease Fighter/jpg,pril lime grease fighter 155ml dish wash,yes
+1730,Comfort Morning Fresh ,Cloth Wash,220 ml,58,http://143.110.186.55:8080/vf-api/android/productImage/Comfort Morning Fresh/jpg,comfort morning fresh  cloth wash,yes
+1731,Nivea Floral Touch,Deo,150 ml,209,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Floral Touch/jpg,nivea floral touch deo,yes
+1732,Nivea Smooth Skin,Deo,150 ml,225,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Smooth Skin/jpg,nivea smooth skin deo,yes
+1733,Nivea Fresh Natural ,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Fresh Natural/jpg,nivea fresh natural  deo,yes
+1734,L'Oreal Paris Shampoo,Shampoo & Conditioner,82 ml,65,http://143.110.186.55:8080/vf-api/android/productImage/L'Oreal Shampoo Total Repair/jpg,l'oreal paris shampoo shampoo & conditioner,yes
+1735,L'Oreal Paris Pouch 7.5ml,Shampoo & Conditioner,1 pkt,4,http://143.110.186.55:8080/vf-api/android/productImage/L'Oreal Shampoo/jpg,l'oreal paris pouch 7.5ml shampoo & conditioner,yes
+1736,Sunsilk Black & Shine Pouch,Shampoo & Conditioner,1 pkt,1,http://143.110.186.55:8080/vf-api/android/productImage/Sunsilk Black & Shine shampoo/jpg,sunsilk black & shine pouch shampoo & conditioner,yes
+1737,Set Wet Global Edition ,Deo,120 ml,250,http://143.110.186.55:8080/vf-api/android/productImage/Set Wet Global Edition/jpg,set wet global edition  deo,yes
+1738,TRESemme Shampoo,Shampoo & Conditioner,1 pkt,2,http://143.110.186.55:8080/vf-api/android/productImage/TRESemme Shampoo/jpg,tresemme shampoo shampoo & conditioner,yes
+1739,Vim Lemon Liquid,Dish Wash,500 ml,99,http://143.110.186.55:8080/vf-api/android/productImage/Vim Lemon Bar Pouch/jpg,vim lemon liquid dish wash,yes
+1740,Vim Lemon Liquid,Dish Wash,250 ml,49,http://143.110.186.55:8080/vf-api/android/productImage/Vim Lemon Bar Pouch/jpg,vim lemon liquid dish wash,yes
+1741,Vim Lemon ,Dish Wash,750 ml,185,http://143.110.186.55:8080/vf-api/android/productImage/Vim Lemon/jpg,vim lemon  dish wash,yes
+1743,Vim Lemon ,Dish Wash,500 ml,115,http://143.110.186.55:8080/vf-api/android/productImage/Vim Lemon Liquid/jpg,vim lemon  dish wash,yes
+1744,PediaSure Health Drink,Health Drinks,400 gm,565,http://143.110.186.55:8080/vf-api/android/productImage/PediaSure Chocolate Drink/jpg,pediasure health drink health drinks,yes
+1878,Red Label Natural Care,Tea & Coffee,500 gm,325,http://143.110.186.55:8080/vf-api/android/productImage/Red Label Natural Care/jpg,red label natural care tea & coffee,yes
+1879,Red Label Natural Care,Tea & Coffee,250 gm,165,http://143.110.186.55:8080/vf-api/android/productImage/Red Label Natural Care/jpg,red label natural care tea & coffee,yes
+1880,Red Label 100gm,Tea & Coffee,100 gm,40,http://143.110.186.55:8080/vf-api/android/productImage/Red Label/jpg,red label 100gm tea & coffee,yes
+1881,Red Label 500gm,Tea & Coffee,500 gm,285,http://143.110.186.55:8080/vf-api/android/productImage/Red Label/jpg,red label 500gm tea & coffee,yes
+1882,Red Label 250gm,Tea & Coffee,250 gm,145,http://143.110.186.55:8080/vf-api/android/productImage/Red Label/jpg,red label 250gm tea & coffee,yes
+1883,Tajmahal Tea 250gm,Tea & Coffee,250 gm,200,http://143.110.186.55:8080/vf-api/android/productImage/Tajmahal/jpg,tajmahal tea 250gm tea & coffee,yes
+1884,Tajmahal,Tea & Coffee,500 gm,385,http://143.110.186.55:8080/vf-api/android/productImage/Tajmahal/jpg,tajmahal tea & coffee,yes
+1885,Wagh Bakri Tea ,Tea & Coffee,250 gm,135,http://143.110.186.55:8080/vf-api/android/productImage/Wagh Bakri/jpg,wagh bakri tea  tea & coffee,yes
+1886,Society tea,Tea & Coffee,250 gm,135,http://143.110.186.55:8080/vf-api/android/productImage/Society/jfif,society tea tea & coffee,yes
+1887,Wagh Bakri Tea ,Tea & Coffee,500 gm,270,http://143.110.186.55:8080/vf-api/android/productImage/Wagh Bakri/jpg,wagh bakri tea  tea & coffee,yes
+1888,Lipton green tea,Tea & Coffee,100 gm,150,http://143.110.186.55:8080/vf-api/android/productImage/Lipton green tea/jpg,lipton green tea tea & coffee,yes
+1889,Nescafe Classic Coffee,Tea & Coffee,50 gm,165,http://143.110.186.55:8080/vf-api/android/productImage/Nescafe Classic/jpg,nescafe classic coffee tea & coffee,yes
+1890,Nescafe Classic Coffee,Tea & Coffee,25 gm,80,http://143.110.186.55:8080/vf-api/android/productImage/Nescafe Classic/jpg,nescafe classic coffee tea & coffee,yes
+1891,Bru Instant,Tea & Coffee,50 gm,60,http://143.110.186.55:8080/vf-api/android/productImage/Bru Instant/jpg,bru instant tea & coffee,yes
+1892,Saffola Gold Oil ,Cooking Oil,1 Ltr,215,http://143.110.186.55:8080/vf-api/android/productImage/Saffola Gold Oil/jpg,saffola gold oil  cooking oil,yes
+1893,Dhara Groundnut Oil,Cooking Oil,1 Ltr,225,http://143.110.186.55:8080/vf-api/android/productImage/Dhara cooking oil/jpg,dhara groundnut oil cooking oil,yes
+1894,Kings Soyabean Refined Oil ,Cooking Oil,1 Ltr,150,http://143.110.186.55:8080/vf-api/android/productImage/Kings Soyabean Oil/jpg,kings soyabean refined oil  cooking oil,yes
+1895,Gemini Mustard Oil,Cooking Oil,1 Ltr,230,http://143.110.186.55:8080/vf-api/android/productImage/gemini mustard oil/jpg,gemini mustard oil cooking oil,yes
+1896,Fortune Sunflower Refined Oil ,Cooking Oil,1 ltr,190,http://143.110.186.55:8080/vf-api/android/productImage/Fortune Sunflower Refined Oil 1Ltr/jpg,fortune sunflower refined oil  cooking oil,yes
+1897,Fortune Sunflower Refined Oil ,Cooking Oil,5 Ltrs,1075,http://143.110.186.55:8080/vf-api/android/productImage/Fortune Sunflower Refined Oil/jpg,fortune sunflower refined oil  cooking oil,yes
+1898,Tulsi Ricebran Oil,Cooking Oil,1 Ltr,200,http://143.110.186.55:8080/vf-api/android/productImage/cooking-oil-250x250/png,tulsi ricebran oil cooking oil,yes
+1899,Bajaj Almond Drops ,Hair Oil,100 ml,69,http://143.110.186.55:8080/vf-api/android/productImage/Bajaj Almond Drops/jpg,bajaj almond drops  hair oil,yes
+1900,Parachute Jasmine Hair Oil,Hair Oil,90 ml,39,http://143.110.186.55:8080/vf-api/android/productImage/parachute Jasmine Hair oil/jfif,parachute jasmine hair oil hair oil,yes
+1901,Bajaj Almond Drops ,Hair Oil,200 ml,133,http://143.110.186.55:8080/vf-api/android/productImage/Bajaj Almond Drops/jpg,bajaj almond drops  hair oil,yes
+1902,Nihar Awla Hair Oil,Hair Oil,140 ml,37,http://143.110.186.55:8080/vf-api/android/productImage/Nihar Awla Hair oil/jpg,nihar awla hair oil hair oil,yes
+1903,Parachute Hair Oil ,Hair Oil,175 ml,70,http://143.110.186.55:8080/vf-api/android/productImage/Parachute Hair Oil/jpg,parachute hair oil  hair oil,yes
+1904,Kesh King Ayurvedic Hair Oil,Hair Oil,120 ml,170,http://143.110.186.55:8080/vf-api/android/productImage/Kesh King Ayurvedic Hair oil/jpeg,kesh king ayurvedic hair oil hair oil,yes
+1905,Navaratna Hair Oil,Hair Oil,100 ml,80,http://143.110.186.55:8080/vf-api/android/productImage/Navartna Hair Oil/jpg,navaratna hair oil hair oil,yes
+1906,Lux Soap (Pack of 5),Bath Soap,100 gm,140,http://143.110.186.55:8080/vf-api/android/productImage/Lux Soap/jpg,lux soap (pack of 5) bath soap,yes
+1907,Park Avenue,Bath Soap,75 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Park Avenue/jpg,park avenue bath soap,yes
+1908,Santoor Soap (Pack of 4),Bath Soap,100 gm,130,http://143.110.186.55:8080/vf-api/android/productImage/Santoor Soap/jpg,santoor soap (pack of 4) bath soap,yes
+1909,Pears Soap (Pack of 4),Bath Soap,75 gm,129,http://143.110.186.55:8080/vf-api/android/productImage/Pears Soap/jpg,pears soap (pack of 4) bath soap,yes
+1910,Dove Soap(Pack of 3),Bath Soap,75 gm,129,http://143.110.186.55:8080/vf-api/android/productImage/Dove Soap/jpg,dove soap(pack of 3) bath soap,yes
+1911,Dettol (Pack of 4),Bath Soap,125 gm,229,http://143.110.186.55:8080/vf-api/android/productImage/Dettol Soap/jpg,dettol (pack of 4) bath soap,yes
+1912,Dettol (Pack of 3),Bath Soap,75 gm,110,http://143.110.186.55:8080/vf-api/android/productImage/Dettol Soap/jpg,dettol (pack of 3) bath soap,yes
+1913,Lifebuoy Soap(Pack of 4),Bath Soap,125 gm,115,http://143.110.186.55:8080/vf-api/android/productImage/Lifebuoy Soap/jpg,lifebuoy soap(pack of 4) bath soap,yes
+1914,Medimix ( Pack of 3),Bath Soap,125 gm,125,http://143.110.186.55:8080/vf-api/android/productImage/Medimix Soap/jpg,medimix ( pack of 3) bath soap,yes
+1915,Himalaya Baby soap,Bath Soap,75 gm,50,http://143.110.186.55:8080/vf-api/android/productImage/Hiomalaya Baby Soap/jpg,himalaya baby soap bath soap,yes
+1916,Cinthol ( Pack of 4),Bath Soap,75 gm,122,http://143.110.186.55:8080/vf-api/android/productImage/Cinthol Soap/jpg,cinthol ( pack of 4) bath soap,yes
+1917,Himalaya Neem And turmeric soap,Bath Soap,75 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/Himalaya neem and turmeric soap/jpg,himalaya neem and turmeric soap bath soap,yes
+1918,Cinthol ( Pack of 2),Bath Soap,100 gm,102,http://143.110.186.55:8080/vf-api/android/productImage/Cinthol/jpg,cinthol ( pack of 2) bath soap,yes
+1919,Johnson Baby Soap ,Bath Soap,50 gm,36,http://143.110.186.55:8080/vf-api/android/productImage/Johnson Baby Soap/jpg,johnson baby soap  bath soap,yes
+1920,Savlon Glycerin Soap,Bath Soap,125 gm,50,http://143.110.186.55:8080/vf-api/android/productImage/Savlon Soap/jpg,savlon glycerin soap bath soap,yes
+1921,Colgate ,Toothbrush & Toothpaste,200 gm,103,http://143.110.186.55:8080/vf-api/android/productImage/Colgate 200gm/jpg,colgate  toothbrush & toothpaste,yes
+1922,Colgate ,Toothbrush & Toothpaste,100 gm,56,http://143.110.186.55:8080/vf-api/android/productImage/Colgate 100gm/jpg,colgate  toothbrush & toothpaste,yes
+1923,Colgate ,Toothbrush & Toothpaste,46 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Colgate 46gm/jpg,colgate  toothbrush & toothpaste,yes
+1924,Colgate Supper Saver Pack,Toothbrush & Toothpaste,500 gm,217,http://143.110.186.55:8080/vf-api/android/productImage/Colgate 500gm/jpg,colgate supper saver pack toothbrush & toothpaste,yes
+1925,Pepsodent,Toothbrush & Toothpaste,200 gm,90,http://143.110.186.55:8080/vf-api/android/productImage/Pepsodent-Toothpaste/jpg,pepsodent toothbrush & toothpaste,yes
+1926,Pepsodent Toothpest,Toothbrush & Toothpaste,100 gm,47,http://143.110.186.55:8080/vf-api/android/productImage/Pepsodent-Toothpaste/jpg,pepsodent toothpest toothbrush & toothpaste,yes
+1927,Colgate Maxfresh,Toothbrush & Toothpaste,84 gm,55,http://143.110.186.55:8080/vf-api/android/productImage/Colgate Maxfresh/jpg,colgate maxfresh toothbrush & toothpaste,yes
+1928,Colgate Maxfresh,Toothbrush & Toothpaste,150 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Colgate Maxfresh/jpg,colgate maxfresh toothbrush & toothpaste,yes
+1929,Patanjali Dant Kanti,Toothbrush & Toothpaste,200 gm,95,http://143.110.186.55:8080/vf-api/android/productImage/Patanjali Dant Kanti/jpg,patanjali dant kanti toothbrush & toothpaste,yes
+1930,Dabur Meswak Toothpaste,Toothbrush & Toothpaste,200 gm,102,http://143.110.186.55:8080/vf-api/android/productImage/Dabur Meswak Toothpest/jfif,dabur meswak toothpaste toothbrush & toothpaste,yes
+1931,Patanjali Dant Kanti,Toothbrush & Toothpaste,100 gm,50,http://143.110.186.55:8080/vf-api/android/productImage/Patanjali 100gm/jpg,patanjali dant kanti toothbrush & toothpaste,yes
+1932,Dabur Meswak ,Toothbrush & Toothpaste,100 gm,58,http://143.110.186.55:8080/vf-api/android/productImage/Dabur Meswak Toothpest/jfif,dabur meswak  toothbrush & toothpaste,yes
+1933,Sensodyne Fresh Gel,Toothbrush & Toothpaste,75 gm,115,http://143.110.186.55:8080/vf-api/android/productImage/Sensodyne Fresh Gel/jpg,sensodyne fresh gel toothbrush & toothpaste,yes
+1934,Sensodyne Fresh Gel,Toothbrush & Toothpaste,150 gm,199,http://143.110.186.55:8080/vf-api/android/productImage/Sensodyne Fresh Gel/jpg,sensodyne fresh gel toothbrush & toothpaste,yes
+1935,Close up Red Hot ,Toothbrush & Toothpaste,150 gm,90,http://143.110.186.55:8080/vf-api/android/productImage/Closeup Red Hot/jpg,close up red hot  toothbrush & toothpaste,yes
+1936,Babool Super Saver pack,Toothbrush & Toothpaste,350 gm,100,http://143.110.186.55:8080/vf-api/android/productImage/babool toothpaste/jpg,babool super saver pack toothbrush & toothpaste,yes
+1937,Babool,Toothbrush & Toothpaste,100 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/babool toothpaste/jpg,babool toothbrush & toothpaste,yes
+1938,Oral B Tooth Brush ,Toothbrush & Toothpaste,1 pcs,20,http://143.110.186.55:8080/vf-api/android/productImage/Oral B Brush/jpg,oral b tooth brush  toothbrush & toothpaste,yes
+1939,Close up ,Toothbrush & Toothpaste,80 gm,50,http://143.110.186.55:8080/vf-api/android/productImage/Closeup Red Hot/jpg,close up  toothbrush & toothpaste,yes
+1940,Everest Shahi biryani Masala,Spices,25 gm,36,http://143.110.186.55:8080/vf-api/android/productImage/Shahi biryani Masala/jpg,everest shahi biryani masala spices,yes
+1941,Everest chhole Masala,Spices,50 gm,35,http://143.110.186.55:8080/vf-api/android/productImage/Everest chhole masala/jpg,everest chhole masala spices,yes
+1942,Everest Samber masala,Spices,50 gm,34,http://143.110.186.55:8080/vf-api/android/productImage/sambar masala/jpg,everest samber masala spices,yes
+1943,Everest Pavbhaji Masala,Spices,50 gm,37,http://143.110.186.55:8080/vf-api/android/productImage/Pav Bhaji Masala/jpg,everest pavbhaji masala spices,yes
+1944,Everest Meat Masala,Spices,50 gm,39,http://143.110.186.55:8080/vf-api/android/productImage/Everest Meat Masala/jpg,everest meat masala spices,yes
+1945,Everest Fish Curry Masala,Spices,50 gm,40,http://143.110.186.55:8080/vf-api/android/productImage/fish curry masala/jpg,everest fish curry masala spices,yes
+1946,Everest Kasuri Methi,Spices,25 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/kasuri methi/jfif,everest kasuri methi spices,yes
+1947,Everest Chicken Masala,Spices,50 gm,39,http://143.110.186.55:8080/vf-api/android/productImage/chicken masala/jpg,everest chicken masala spices,yes
+1948,Sargam Soap,Cloth Wash,25 gm,10,http://143.110.186.55:8080/vf-api/android/productImage/Sargam Soap/jpg,sargam soap cloth wash,yes
+1949,Everest Shahi Paneer Masala,Spices,50 gm,44,http://143.110.186.55:8080/vf-api/android/productImage/Everest Shahi Paneer Masala/jpg,everest shahi paneer masala spices,yes
+1950,Suhana Matar Paneer Mix,Spices,50 gm,40,http://143.110.186.55:8080/vf-api/android/productImage/mater paneer mix/jpg,suhana matar paneer mix spices,yes
+1951,Rin Soap ,Cloth Wash,150 gm,10,http://143.110.186.55:8080/vf-api/android/productImage/Rin 10/jpeg,rin soap  cloth wash,yes
+1952,Rin Big Bar,Cloth Wash,250 gm,18,http://143.110.186.55:8080/vf-api/android/productImage/Rin Big Bar/jpg,rin big bar cloth wash,yes
+1953,Surf excel,Cloth Wash,84 gm,10,http://143.110.186.55:8080/vf-api/android/productImage/Surf excel/jpg,surf excel cloth wash,yes
+1954,Suhana Palak Paneer mix,Spices,50 gm,40,http://143.110.186.55:8080/vf-api/android/productImage/palak paneer mix/jpg,suhana palak paneer mix spices,yes
+1955,Surf excel Big Bar,Cloth Wash,250 gm,32,http://143.110.186.55:8080/vf-api/android/productImage/Surf excel/jpg,surf excel big bar cloth wash,yes
+1956,Rin Powder,Cloth Wash,500 gm,42,http://143.110.186.55:8080/vf-api/android/productImage/Rin Powder/png,rin powder cloth wash,yes
+1957,Rin Powder,Cloth Wash,1 Kg,86,http://143.110.186.55:8080/vf-api/android/productImage/Rin Powder/png,rin powder cloth wash,yes
+1958,Ghadi Washing Powder ,Cloth Wash,500 gm,32,http://143.110.186.55:8080/vf-api/android/productImage/Ghadi Powder/jpg,ghadi washing powder  cloth wash,yes
+1959,Ghadi Washing Powder ,Cloth Wash,1 Kg,63,http://143.110.186.55:8080/vf-api/android/productImage/Ghadi Powder/jpg,ghadi washing powder  cloth wash,yes
+1960,Surf excel Powder ,Cloth Wash,500 gm,66,http://143.110.186.55:8080/vf-api/android/productImage/Surf Excel Powder/jpg,surf excel powder  cloth wash,yes
+1961,Surf excel Powder ,Cloth Wash,1 Kg,130,http://143.110.186.55:8080/vf-api/android/productImage/Surf Excel Powder/jpg,surf excel powder  cloth wash,yes
+1962,Ashirwad Shudhh Chakki Atta,Grains & Legumes,5 kg,201.4,http://143.110.186.55:8080/vf-api/android/productImage/chakki atta/jfif,ashirwad shudhh chakki atta grains & legumes,yes
+1963,Fortune Chakki Fresh Atta,Grains & Legumes,5 Kg,196.23,http://143.110.186.55:8080/vf-api/android/productImage/Fortune Chakki Fresh Atta/jpg,fortune chakki fresh atta grains & legumes,yes
+1964,Tide Washing Powder ,Cloth Wash,500 gm,58,http://143.110.186.55:8080/vf-api/android/productImage/Tide Powder/png,tide washing powder  cloth wash,yes
+1965,Tide Washing Powder ,Cloth Wash,1 Kg,124,http://143.110.186.55:8080/vf-api/android/productImage/Tide Powder/png,tide washing powder  cloth wash,yes
+1966,Tide Bar ,Cloth Wash,200 gm,10,http://143.110.186.55:8080/vf-api/android/productImage/Tide Soap/jpg,tide bar  cloth wash,yes
+1967,Himalaya Neem Face wash,Face Wash,50 ML,70,http://143.110.186.55:8080/vf-api/android/productImage/Himalaya face wash/jpg,himalaya neem face wash face wash,yes
+1968,Pears Face wash,Face Wash,60 ml,145.5,http://143.110.186.55:8080/vf-api/android/productImage/pears face wash/jpg,pears face wash face wash,yes
+1969,Arial Washing Powder,Cloth Wash,1 Kg,136,http://143.110.186.55:8080/vf-api/android/productImage/Ariel Washing Powder/jpg,arial washing powder cloth wash,yes
+1970,Natures Papaya Facewash,Face Wash,65 ml,65,http://143.110.186.55:8080/vf-api/android/productImage/papaya face wash/jpg,natures papaya facewash face wash,yes
+1971,Savlon Moisture Shield,Hand Wash ,750 ml,99,http://143.110.186.55:8080/vf-api/android/productImage/Savlon Hand Wash/jpg,savlon moisture shield hand wash ,yes
+1972,Savlon Herbal Sensitive ,Hand Wash ,750 ml,99,http://143.110.186.55:8080/vf-api/android/productImage/Savlon Harbal Sensetive/jpg,savlon herbal sensitive  hand wash ,yes
+1973,Savlon Deep  Clean ,Hand Wash ,725 ml,99,http://143.110.186.55:8080/vf-api/android/productImage/Savlon Deep Clean/jpeg,savlon deep  clean  hand wash ,yes
+1974,Dettol Combo Pack,Hand Wash ,200 ml,90,http://143.110.186.55:8080/vf-api/android/productImage/Dettol Combo Pack/jpg,dettol combo pack hand wash ,yes
+1975,Santoor Gentle Hand Wash ,Hand Wash ,180 ml,57,http://143.110.186.55:8080/vf-api/android/productImage/Santoor Hand Wash/jpeg,santoor gentle hand wash  hand wash ,yes
+1976,Lifebuoy Combo Pack,Hand Wash ,750 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Lifebuoy Hand Wash/jpg,lifebuoy combo pack hand wash ,yes
+1977,Park Avenue Good Morning,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Park Avenue Good Morning/jpg,park avenue good morning deo,yes
+1978,Park Avenue Alpha,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Park Avenue Alpha/jpeg,park avenue alpha deo,yes
+1979,Park Avenue Cool Blue,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Park Avenue Cool Blue/jpg,park avenue cool blue deo,yes
+1980,Park Avenue Storm,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Park Avenue Storm/jpg,park avenue storm deo,yes
+1981,Set Wet Miscief Avatar ,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Set Wet Miscief Avatar/jpg,set wet miscief avatar  deo,yes
+1982,Set Wet Allure Avatar,Deo,150 gm,199,http://143.110.186.55:8080/vf-api/android/productImage/Set Wet Allure Avatar/jpg,set wet allure avatar deo,yes
+1983,Nivea Men ,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Men/jpg,nivea men  deo,yes
+1984,Fogg Monarch,Deo,120 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Fogg Monarch/jpg,fogg monarch deo,yes
+1985,Fogg Napoleon,Deo,120 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Fogg Napoleon/jpg,fogg napoleon deo,yes
+1986,Fogg Marco,Deo,120 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Fogg Macro/jpg,fogg marco deo,yes
+1987,Axe Signature ,Deo,122 ml,210,http://143.110.186.55:8080/vf-api/android/productImage/Axe Signature/jpg,axe signature  deo,yes
+1988,Garnier Natural Brown ,Mehandi,1 pkt,39,http://143.110.186.55:8080/vf-api/android/productImage/Garnier Natural Brown/jpg,garnier natural brown  mehandi,yes
+1989,Garnier Brown Black,Mehandi,1 pkt,39,http://143.110.186.55:8080/vf-api/android/productImage/Garnier Brown Black/jpg,garnier brown black mehandi,yes
+1990,Nisha Natural Black ,Mehandi,1 pkt,15,http://143.110.186.55:8080/vf-api/android/productImage/Nisha Natural Black/jpg,nisha natural black  mehandi,yes
+1991,Godrej Nupur Henna ,Mehandi,1 pkt,15,http://143.110.186.55:8080/vf-api/android/productImage/Godrej Nupur Henna/jpg,godrej nupur henna  mehandi,yes
+1992,Streax Insta Natural Black,Mehandi,1 pkt,20,http://143.110.186.55:8080/vf-api/android/productImage/Streax Insta/jpg,streax insta natural black mehandi,yes
+1993,Indica Natural Black,Mehandi,1 Box,160,http://143.110.186.55:8080/vf-api/android/productImage/Indica Natural Black/jpg,indica natural black mehandi,yes
+1994,Harpic Bathroom Cleaner Lemon,Toilet & Floor Cleaner,500 ml,99,http://143.110.186.55:8080/vf-api/android/productImage/Harpic Bathroom Cleaner/jpg,harpic bathroom cleaner lemon toilet & floor cleaner,yes
+1995,Lizol Floral ,Toilet & Floor Cleaner,200 ml,38,http://143.110.186.55:8080/vf-api/android/productImage/Lizol Floral/jpeg,lizol floral  toilet & floor cleaner,yes
+1996,Lizol Citrus,Toilet & Floor Cleaner,200 ml,38,http://143.110.186.55:8080/vf-api/android/productImage/Lizol Citrus/jpg,lizol citrus toilet & floor cleaner,yes
+1997,Lizol Citrus,Toilet & Floor Cleaner,500 ml,98,http://143.110.186.55:8080/vf-api/android/productImage/Lizol Citrus/jpg,lizol citrus toilet & floor cleaner,yes
+1998,Lizol Floral ,Toilet & Floor Cleaner,500 ml,103,http://143.110.186.55:8080/vf-api/android/productImage/Lizol Floral/jpeg,lizol floral  toilet & floor cleaner,yes
+1999,Lizol Jasmine,Toilet & Floor Cleaner,500 ml,98,http://143.110.186.55:8080/vf-api/android/productImage/Lizol Jasmine/jpg,lizol jasmine toilet & floor cleaner,yes
+2000,Dettol Antiseptic Liquid ,Toilet & Floor Cleaner,250 ml,116,http://143.110.186.55:8080/vf-api/android/productImage/Dettol Antiseptic Liquid/jpg,dettol antiseptic liquid  toilet & floor cleaner,yes
+2001,Nivea Men Dark Spot,Face Wash,50 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Men Dark Spot/jpg,nivea men dark spot face wash,yes
+2002,Nivea Men Oil Control,Face Wash,50 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Men Oil Control/png,nivea men oil control face wash,yes
+2003,Garnier Men Acno Fight,Face Wash,50 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Garnier Men Acno Fight/jpeg,garnier men acno fight face wash,yes
+2004,Garnier Men Turbo Bright,Face Wash,50 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Garnier Men Turbo Bright/jpg,garnier men turbo bright face wash,yes
+2005,Pond's Pure Detox,Face Wash,50 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/Ponds Pure Detox/jpg,pond's pure detox face wash,yes
+2011,Clinic Plus+,Shampoo & Conditioner,1 pkt,1,http://143.110.186.55:8080/vf-api/android/productImage/Clinic Plus +/jpeg,clinic plus+ shampoo & conditioner,yes
+2012,Dove Hair Fall Rescue Shampoo,Shampoo & Conditioner,80 ml,68,http://143.110.186.55:8080/vf-api/android/productImage/Dove Hair Fall Rescue/jpg,dove hair fall rescue shampoo shampoo & conditioner,yes
+2013,Dove Dryness Care Shampoo,Shampoo & Conditioner,80 ml,68,http://143.110.186.55:8080/vf-api/android/productImage/Dove Dryness Care/jpg,dove dryness care shampoo shampoo & conditioner,yes
+2014,Dove Dandruff Care ,Shampoo & Conditioner,80 ml,71,http://143.110.186.55:8080/vf-api/android/productImage/Dove Anti Dandruff/jpg,dove dandruff care  shampoo & conditioner,yes
+2015,Dove Intense Repair,Shampoo & Conditioner,80 ml,68,http://143.110.186.55:8080/vf-api/android/productImage/Dove Intense Repair/jpg,dove intense repair shampoo & conditioner,yes
+2016,Dove Dryness Care Conditioner,Shampoo & Conditioner,80 ml,90,http://143.110.186.55:8080/vf-api/android/productImage/Dove Dryness Care Conditioner/jpg,dove dryness care conditioner shampoo & conditioner,yes
+2017,Dove Intense Repair ,Shampoo & Conditioner,75 ml,90,http://143.110.186.55:8080/vf-api/android/productImage/Dove Intense Repair/jpg,dove intense repair  shampoo & conditioner,yes
+2018,Clinic Plus Strong & Long,Shampoo & Conditioner,80 ml,52,http://143.110.186.55:8080/vf-api/android/productImage/Clinic Plus/jpg,clinic plus strong & long shampoo & conditioner,yes
+2019,TRESemme ,Shampoo & Conditioner,85 ml,55,http://143.110.186.55:8080/vf-api/android/productImage/TRESemme/jpg,tresemme  shampoo & conditioner,yes
+2020,TRESemme Keratin Smooth,Shampoo & Conditioner,85 ml,70,http://143.110.186.55:8080/vf-api/android/productImage/TRESemme Keratin Sooth/jpg,tresemme keratin smooth shampoo & conditioner,yes
+2021,Sunsilk Black & Shine,Shampoo & Conditioner,80 ml,58,http://143.110.186.55:8080/vf-api/android/productImage/Sunsilk Shampoo/jpg,sunsilk black & shine shampoo & conditioner,yes
+2022,KS Spark  Deo,Deo,150 ml,142,http://143.110.186.55:8080/vf-api/android/productImage/KS SPARK/jpeg,ks spark  deo deo,yes
+2023,Chilli Powder ,Spices,100 gm,33,http://143.110.186.55:8080/vf-api/android/productImage/Chilli Powder/jpg,chilli powder  spices,yes
+2024,Chilli Powder ,Spices,200 gm,64,http://143.110.186.55:8080/vf-api/android/productImage/Chilli Powder/jpg,chilli powder  spices,yes
+2025,Chilli Powder ,Spices,500 gm,158,http://143.110.186.55:8080/vf-api/android/productImage/Chilli Powder/jpg,chilli powder  spices,yes
+2026,Coriander Powder ,Spices,100 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/Coriander Powder/jpg,coriander powder  spices,yes
+2027,Coriander Powder ,Spices,200 gm,52,http://143.110.186.55:8080/vf-api/android/productImage/Coriander Powder/jpg,coriander powder  spices,yes
+2028,Coriander Powder ,Spices,500 gm,150,http://143.110.186.55:8080/vf-api/android/productImage/Coriander Powder/jpg,coriander powder  spices,yes
+2029,Turmeric Powder,Spices,100 gm,28,http://143.110.186.55:8080/vf-api/android/productImage/Turmeric Powder/jpg,turmeric powder spices,yes
+2030,Turmeric Powder,Spices,200 gm,55,http://143.110.186.55:8080/vf-api/android/productImage/Turmeric Powder/jpg,turmeric powder spices,yes
+2031,Turmeric Powder,Spices,50 gm,14,http://143.110.186.55:8080/vf-api/android/productImage/Turmeric Powder/jpg,turmeric powder spices,yes
+2032,Goda Masala,Spices,50 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Goda Masala/jpg,goda masala spices,yes
+2033,Goda Masala,Spices,100 gm,49,http://143.110.186.55:8080/vf-api/android/productImage/Goda Masala/jpg,goda masala spices,yes
+2034,Goda Masala,Spices,200 gm,96,http://143.110.186.55:8080/vf-api/android/productImage/Goda Masala/jpg,goda masala spices,yes
+2035,Jeera Powder,Spices,50 gm,19,http://143.110.186.55:8080/vf-api/android/productImage/Jeera Powder/jpg,jeera powder spices,yes
+2036,Jeera Powder,Spices,100 gm,37,http://143.110.186.55:8080/vf-api/android/productImage/Jeera Powder/jpg,jeera powder spices,yes
+2037,Parachute Hair Oil ,Hair Oil,100 ml,38,http://143.110.186.55:8080/vf-api/android/productImage/Parachute Hair Oil/jpg,parachute hair oil  hair oil,yes
+2038,Parle G Biscuit 110gm,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Parle G/jpg,"parle g biscuit 110gm biscuits ,cookies & chocolates",yes
+2039,Parle G Biscuit 250gm,"Biscuits ,Cookies & Chocolates",1 pkt,22,http://143.110.186.55:8080/vf-api/android/productImage/Parle G/jpg,"parle g biscuit 250gm biscuits ,cookies & chocolates",yes
+2040,Parle G Gold 100gm,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Parle G Gold/jpeg,"parle g gold 100gm biscuits ,cookies & chocolates",yes
+2041,Parle G Gold 500gm,"Biscuits ,Cookies & Chocolates",1 pkt,65,http://143.110.186.55:8080/vf-api/android/productImage/Parle G Gold/jpeg,"parle g gold 500gm biscuits ,cookies & chocolates",yes
+2042,Monaco Biscuit,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Monaco/jpg,"monaco biscuit biscuits ,cookies & chocolates",yes
+2043,Monaco Biscuit 200gm,"Biscuits ,Cookies & Chocolates",1 pkt,35,http://143.110.186.55:8080/vf-api/android/productImage/Monaco 200gm/jpg,"monaco biscuit 200gm biscuits ,cookies & chocolates",yes
+2044,Krack Jack Biscuit,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Crack Jack 5 Rs/jpg,"krack jack biscuit biscuits ,cookies & chocolates",yes
+2045,Crack Jack 200gm,"Biscuits ,Cookies & Chocolates",1 pkt,35,http://143.110.186.55:8080/vf-api/android/productImage/Crack Jack/jpg,"crack jack 200gm biscuits ,cookies & chocolates",yes
+2046,Treat Jimjam Biscuit,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Treat Jimjam/jpg,"treat jimjam biscuit biscuits ,cookies & chocolates",yes
+2047,Dark Fantasy Bourbon ,"Biscuits ,Cookies & Chocolates",1 pkt,30,http://143.110.186.55:8080/vf-api/android/productImage/Dark Fantansy Choco Fills/jpg,"dark fantasy bourbon  biscuits ,cookies & chocolates",yes
+2048,Britania Marie Gold 250gm,"Biscuits ,Cookies & Chocolates",1 pkt,35,http://143.110.186.55:8080/vf-api/android/productImage/Marie Gold/jpg,"britania marie gold 250gm biscuits ,cookies & chocolates",yes
+2049,Britania Nutri Choice Digestive 100gm,"Biscuits ,Cookies & Chocolates",1 pkt,25,http://143.110.186.55:8080/vf-api/android/productImage/Nutri Choce/jpg,"britania nutri choice digestive 100gm biscuits ,cookies & chocolates",yes
+2050,Cadbury Celebrations 118.6gm,"Biscuits ,Cookies & Chocolates",1 pkt,100,http://143.110.186.55:8080/vf-api/android/productImage/Cadbury Celebrations/jpg,"cadbury celebrations 118.6gm biscuits ,cookies & chocolates",yes
+2051,Good Day Cashew Cookies 60gm,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Good Day Cashew Cookies/jpg,"good day cashew cookies 60gm biscuits ,cookies & chocolates",yes
+2052,Good Day Butter Cookies 50gm,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Good Day Butter Choice/jpg,"good day butter cookies 50gm biscuits ,cookies & chocolates",yes
+2053,fortune soya chunks,Grains & Legumes,225 gm,55,http://143.110.186.55:8080/vf-api/android/productImage/Fortune soya chunks/jpg,fortune soya chunks grains & legumes,yes
+2054,Good Day Cashew Cookies 200gm,"Biscuits ,Cookies & Chocolates",1 pkt,40,http://143.110.186.55:8080/vf-api/android/productImage/Good Day Cashew Cookies/jpg,"good day cashew cookies 200gm biscuits ,cookies & chocolates",yes
+2055,nutrella soya chunks,Grains & Legumes,220 gm,60,http://143.110.186.55:8080/vf-api/android/productImage/nutrella soya chunk/jpg,nutrella soya chunks grains & legumes,yes
+2056,Fortune Besan,Grains & Legumes,1 kg,140,http://143.110.186.55:8080/vf-api/android/productImage/fortune besan/jpg,fortune besan grains & legumes,yes
+2057,India Gate Basmati Rice,Grains & Legumes,1 kg,182,http://143.110.186.55:8080/vf-api/android/productImage/india gate basmati rice/jfif,india gate basmati rice grains & legumes,yes
+2058,Hide and Seek 120gm,"Biscuits ,Cookies & Chocolates",1 pkt,30,http://143.110.186.55:8080/vf-api/android/productImage/Hide and Seek/jpg,"hide and seek 120gm biscuits ,cookies & chocolates",yes
+2059,Britania Nutri Choice Digestive 200gm,"Biscuits ,Cookies & Chocolates",1 gm,45,http://143.110.186.55:8080/vf-api/android/productImage/Nutri Choce/jpg,"britania nutri choice digestive 200gm biscuits ,cookies & chocolates",yes
+2060,Maggi Noodles 70 gm pkt,Instant Foods,1 pkt,12,http://143.110.186.55:8080/vf-api/android/productImage/maggi/jfif,maggi noodles 70 gm pkt instant foods,yes
+2061,maggi Noodles 140gm pkt,Instant Foods,1 pkt,24,http://143.110.186.55:8080/vf-api/android/productImage/maggi/jfif,maggi noodles 140gm pkt instant foods,yes
+2062,Maggi Noodles 280gm pkt,Instant Foods,1 pkt,48,http://143.110.186.55:8080/vf-api/android/productImage/maggi/jfif,maggi noodles 280gm pkt instant foods,yes
+2063,Yippee Noodles 405 gms,Instant Foods,1 pkt,72,http://143.110.186.55:8080/vf-api/android/productImage/Yippi Noodles/jfif,yippee noodles 405 gms instant foods,yes
+2064,Yippee Noodles 70gms,Instant Foods,1 pkt,12,http://143.110.186.55:8080/vf-api/android/productImage/Yippi Noodles/jfif,yippee noodles 70gms instant foods,yes
+2065,Sunflower Vanaspati Ghee ,Cooking Oil,1 ltr,185,http://143.110.186.55:8080/vf-api/android/productImage/Sunflower Vanaspati ghee/jpg,sunflower vanaspati ghee  cooking oil,yes
+2066,Sunflower Vanaspati Ghee ,Cooking Oil,500 ml,95,http://143.110.186.55:8080/vf-api/android/productImage/Sunflower Vanaspati ghee/jpg,sunflower vanaspati ghee  cooking oil,yes
+2067,Colgate Zigzag ToothBrush ,Toothbrush & Toothpaste,1 pkt,30,http://143.110.186.55:8080/vf-api/android/productImage/Colgate Zigzag ToothBrush/jpg,colgate zigzag toothbrush  toothbrush & toothpaste,yes
+2068,Veg Hakka Noodles 300 gms,Instant Foods,1 gm,70,http://143.110.186.55:8080/vf-api/android/productImage/veg Hakka Noodles/jpg,veg hakka noodles 300 gms instant foods,yes
+2069,Bournvita 500gm,Health Drinks,1 pkt,209,http://143.110.186.55:8080/vf-api/android/productImage/Bournvita/jpg,bournvita 500gm health drinks,yes
+2070,Complan 200gm,Health Drinks,1 pkt,125,http://143.110.186.55:8080/vf-api/android/productImage/Complan/jpg,complan 200gm health drinks,yes
+2071,Horlicks Chocolate 500gm,Health Drinks,1 pkt,211,http://143.110.186.55:8080/vf-api/android/productImage/Horlicks Chocolate/png,horlicks chocolate 500gm health drinks,yes
+2072,Johnson Baby Powder ,Face Powder,100 gm,80,http://143.110.186.55:8080/vf-api/android/productImage/Johnson Baby Powder/jpg,johnson baby powder  face powder,yes
+2073,Himalaya Baby Powder ,Face Powder,100 gm,72,http://143.110.186.55:8080/vf-api/android/productImage/Himalaya Baby Powder/jpg,himalaya baby powder  face powder,yes
+2074,Himalaya Anti Dandruff Shampoo,Shampoo & Conditioner,80 ml,62,http://143.110.186.55:8080/vf-api/android/productImage/Himalaya Anti Dandruff Shampoo/jpg,himalaya anti dandruff shampoo shampoo & conditioner,yes
+2075,Cinthol Talk Powder ,Face Powder,1 Box,135,http://143.110.186.55:8080/vf-api/android/productImage/Cinthol Powder/jpg,cinthol talk powder  face powder,yes
+2076,Vim Lemon Bar ,Dish Wash,300 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Vim Lemon Bar/jpg,vim lemon bar  dish wash,yes
+2077,Expert Bar( Pack of 4),Dish Wash,1 pkt,30,http://143.110.186.55:8080/vf-api/android/productImage/Expert Dish Bar/jpg,expert bar( pack of 4) dish wash,yes
+2078,Suruchi Kasuri Methi ,Spices,100 gm,60,http://143.110.186.55:8080/vf-api/android/productImage/Suruchi Kasturi Methi/jpg,suruchi kasuri methi  spices,yes
+2079,Pushp Kasuri Methi ,Spices,100 gm,58,http://143.110.186.55:8080/vf-api/android/productImage/Pushp Kasturi Methi/jpg,pushp kasuri methi  spices,yes
+2080,Parachute Hair Oil ,Hair Oil,100 ml,38,http://143.110.186.55:8080/vf-api/android/productImage/Parachute Hair Oil/jpg,parachute hair oil  hair oil,yes
+2081,Kisan Jam Mix Fruits ,Sauces & Ketchup,200 gm,68,http://143.110.186.55:8080/vf-api/android/productImage/Kisan Jam Mix Fruits/jpg,kisan jam mix fruits  sauces & ketchup,yes
+2082,Maggi Rich Tomato ,Sauces & Ketchup,500 gm,150,http://143.110.186.55:8080/vf-api/android/productImage/Rich Tomato Ketchup/jpg,maggi rich tomato  sauces & ketchup,yes
+2083,Maggi Rich Tomato ,Sauces & Ketchup,200 gm,62,http://143.110.186.55:8080/vf-api/android/productImage/Rich Tomato Ketchup/jpg,maggi rich tomato  sauces & ketchup,yes
+2084,Green Chilli Sauce 680gm,Sauces & Ketchup,1 Bottle,85,http://143.110.186.55:8080/vf-api/android/productImage/Green Chilli Sauce/jpg,green chilli sauce 680gm sauces & ketchup,yes
+2085,Chilli Sauce 680gm,Sauces & Ketchup,1 Bottle,85,http://143.110.186.55:8080/vf-api/android/productImage/Red Chilli Sauce/jpg,chilli sauce 680gm sauces & ketchup,yes
+2086,Chings Dark Soy Sauce 750gm,Sauces & Ketchup,1 Bottle,85,http://143.110.186.55:8080/vf-api/android/productImage/Chings Dark Soy Sauce/jpg,chings dark soy sauce 750gm sauces & ketchup,yes
+2087,Ujala Classic Vinegar 650g,Sauces & Ketchup,1 Bottle,65,http://143.110.186.55:8080/vf-api/android/productImage/Ujala Classic Vinegar/jpg,ujala classic vinegar 650g sauces & ketchup,yes
+2088,Ezee Liquid Detergent ,Cloth Wash,235 ml,57,http://143.110.186.55:8080/vf-api/android/productImage/Ezee Liquid Detergent/jpeg,ezee liquid detergent  cloth wash,yes
+2089,Cadbury Celebrations 62.2g,"Biscuits ,Cookies & Chocolates",1 pkt,50,http://143.110.186.55:8080/vf-api/android/productImage/Cadbury Celebrations/jpg,"cadbury celebrations 62.2g biscuits ,cookies & chocolates",yes
+2090,Pril Lime Grease Fighter 155ml,Dish Wash,1 pkt,20,http://143.110.186.55:8080/vf-api/android/productImage/Pril Lime Grease Fighter/jpg,pril lime grease fighter 155ml dish wash,yes
+2091,Comfort Morning Fresh ,Cloth Wash,220 ml,58,http://143.110.186.55:8080/vf-api/android/productImage/Comfort Morning Fresh/jpg,comfort morning fresh  cloth wash,yes
+2092,Nivea Floral Touch,Deo,150 ml,209,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Floral Touch/jpg,nivea floral touch deo,yes
+2093,Nivea Smooth Skin,Deo,150 ml,225,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Smooth Skin/jpg,nivea smooth skin deo,yes
+2094,Nivea Fresh Natural ,Deo,150 ml,199,http://143.110.186.55:8080/vf-api/android/productImage/Nivea Fresh Natural/jpg,nivea fresh natural  deo,yes
+2095,L'Oreal Paris Shampoo,Shampoo & Conditioner,82 ml,65,http://143.110.186.55:8080/vf-api/android/productImage/L'Oreal Shampoo Total Repair/jpg,l'oreal paris shampoo shampoo & conditioner,yes
+2096,L'Oreal Paris Pouch 7.5ml,Shampoo & Conditioner,1 pkt,4,http://143.110.186.55:8080/vf-api/android/productImage/L'Oreal Shampoo/jpg,l'oreal paris pouch 7.5ml shampoo & conditioner,yes
+2097,Sunsilk Black & Shine Pouch,Shampoo & Conditioner,1 ml,1,http://143.110.186.55:8080/vf-api/android/productImage/Sunsilk Black & Shine shampoo/jpg,sunsilk black & shine pouch shampoo & conditioner,yes
+2098,Set Wet Global Edition ,Deo,120 ml,250,http://143.110.186.55:8080/vf-api/android/productImage/Set Wet Global Edition/jpg,set wet global edition  deo,yes
+2099,TRESemme Shampoo,Shampoo & Conditioner,1 pkt,0,http://143.110.186.55:8080/vf-api/android/productImage/TRESemme Shampoo/jpg,tresemme shampoo shampoo & conditioner,yes
+2100,Vim Lemon Bar ,Dish Wash,500 ml,99,http://143.110.186.55:8080/vf-api/android/productImage/Vim Lemon Bar Pouch/jpg,vim lemon bar  dish wash,yes
+2101,Vim Lemon Bar ,Dish Wash,250 ml,49,http://143.110.186.55:8080/vf-api/android/productImage/Vim Lemon Bar Pouch/jpg,vim lemon bar  dish wash,yes
+2102,Vim Lemon ,Dish Wash,750 ml,185,http://143.110.186.55:8080/vf-api/android/productImage/Vim Lemon/jpg,vim lemon  dish wash,yes
+2103,Vim Lemon ,Dish Wash,500 ml,115,http://143.110.186.55:8080/vf-api/android/productImage/Vim Lemon Liquid/jpg,vim lemon  dish wash,yes
+2104,PediaSure Health Drink,Health Drinks,400 gm,565,http://143.110.186.55:8080/vf-api/android/productImage/PediaSure Chocolate Drink/jpg,pediasure health drink health drinks,yes
+2105,Pantene ,Shampoo & Conditioner,75 ml,60,http://143.110.186.55:8080/vf-api/android/productImage/Pantene/jpg,pantene  shampoo & conditioner,yes
+2106,Suruchi Hing 22gm,Spices,1 Box,55,http://143.110.186.55:8080/vf-api/android/productImage/Suruchi Hing/jpg,suruchi hing 22gm spices,yes
+2107,Bournvita 200gm,Health Drinks,1 box,110,http://143.110.186.55:8080/vf-api/android/productImage/Bournvita 200gm/jpg,bournvita 200gm health drinks,yes
+2108,Colin Glass Cleaner ,Toilet & Floor Cleaner,500 ml,93,http://143.110.186.55:8080/vf-api/android/productImage/Colin Glass Cleaner/jpg,colin glass cleaner  toilet & floor cleaner,yes
+2109,Odonil Air Freshner Combo Pack ,Room Freshener,1 Box,150,http://143.110.186.55:8080/vf-api/android/productImage/Odonil Air Freshner/jpg,odonil air freshner combo pack  room freshener,yes
+2110,Godrej Aer Power pack ,Room Freshener,1 pkt,55,http://143.110.186.55:8080/vf-api/android/productImage/Godrej Aer power pocket/jpg,godrej aer power pack  room freshener,yes
+2111,Ginni Wheat Daliya 500gm,Grains & Legumes,1 pkt,37,http://143.110.186.55:8080/vf-api/android/productImage/Ginni Wheat Daliya/jpg,ginni wheat daliya 500gm grains & legumes,yes
+2112,Varalaxmi Sabudana 500gm,Grains & Legumes,1 pkt,72,http://143.110.186.55:8080/vf-api/android/productImage/Varalaxmi Sabudana/jpg,varalaxmi sabudana 500gm grains & legumes,yes
+2113,Lijjat Moong Papad 200gm,Grains & Legumes,1 pkt,64,http://143.110.186.55:8080/vf-api/android/productImage/Lijjat Moong Papad/jpg,lijjat moong papad 200gm grains & legumes,yes
+2114,Saffola Masala Oats 30gm,Instant Foods,1 pkt,15,http://143.110.186.55:8080/vf-api/android/productImage/Saffola Masala Oats/jpg,saffola masala oats 30gm instant foods,yes
+2115,Ajit Classic Khari 70gm,Rusk & Khari,1 pkt,20,http://143.110.186.55:8080/vf-api/android/productImage/Classic Khari/jpg,ajit classic khari 70gm rusk & khari,yes
+2116,Ruck Classic Toast 75gm,Rusk & Khari,1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Rusky Classic Toast/jpg,ruck classic toast 75gm rusk & khari,yes
+2117,Rusky Milk Toast 150gm,Rusk & Khari,1 pkt,25,http://143.110.186.55:8080/vf-api/android/productImage/Rusky Milk Toast/jpg,rusky milk toast 150gm rusk & khari,yes
+2118,Rusky Elaichi Toast 250gm,Rusk & Khari,1 pkt,35,http://143.110.186.55:8080/vf-api/android/productImage/Rusky Elaichi Toast/jpg,rusky elaichi toast 250gm rusk & khari,yes
+2119,Rusky Atta Toast 250gm,Rusk & Khari,1 pkt,35,http://143.110.186.55:8080/vf-api/android/productImage/Rusky Atta Toast/jpg,rusky atta toast 250gm rusk & khari,yes
+2120,Eggs,Eggs & Breads ,6 pcs,36,http://143.110.186.55:8080/vf-api/android/productImage/White eggs/jpg,eggs eggs & breads ,yes
+2121,Dark Fantasy Bourbon 150gm,"Biscuits ,Cookies & Chocolates",1 pkt,30,http://143.110.186.55:8080/vf-api/android/productImage/Dark Fantasy Bourbon/jpg,"dark fantasy bourbon 150gm biscuits ,cookies & chocolates",yes
+2123,Jaggery 1 kg,Salt & Sugar,1 kg,80,http://143.110.186.55:8080/vf-api/android/productImage/jaggery/jpg,jaggery 1 kg salt & sugar,yes
+2125,Puffed Rice/Murmura,Instant Foods,500 gm,60,http://143.110.186.55:8080/vf-api/android/productImage/Puffed-Rice/jpg,puffed rice/murmura instant foods,yes
+2126,Kellogg's Corn Flaks Original,Instant Foods,100 gm,45,http://143.110.186.55:8080/vf-api/android/productImage/Kelloggs-Original/jpg,kellogg's corn flaks original instant foods,yes
+2127,Puffed Rice/ Murmura,Instant Foods,200 gm,35,http://143.110.186.55:8080/vf-api/android/productImage/Puffed-Rice/jpg,puffed rice/ murmura instant foods,yes
+2128,Kellogg's Chocos 100gms,Instant Foods,1 pkt,60,http://143.110.186.55:8080/vf-api/android/productImage/chocos/jfif,kellogg's chocos 100gms instant foods,yes
+2129,Maggie Masala Pazzta Penne 65 gm,Snacks ,1 gm,28,http://143.110.186.55:8080/vf-api/android/productImage/maggie pazzta/jfif,maggie masala pazzta penne 65 gm snacks ,yes
+2130,Maggie Pazzta Macaroni 70 gm,Snacks ,1 pkt,28,http://143.110.186.55:8080/vf-api/android/productImage/PAZZTA MACCARONI/jpg,maggie pazzta macaroni 70 gm snacks ,yes
+2132,Maggie Pazzta cheezy Tomato Twist 64 gm,Instant Foods,1 pkt,64,http://143.110.186.55:8080/vf-api/android/productImage/Pazzta tomato twist/jfif,maggie pazzta cheezy tomato twist 64 gm instant foods,yes
+2133,premium Quality Cashews,Dryfruits and Nuts,250 gm,220,http://143.110.186.55:8080/vf-api/android/productImage/cashews/jfif,premium quality cashews dryfruits and nuts,yes
+2134,Almonds,Dryfruits and Nuts,250 gm,200,http://143.110.186.55:8080/vf-api/android/productImage/almonds/jfif,almonds dryfruits and nuts,yes
+2135,Golden Raisins,Dryfruits and Nuts,250 gm,95,http://143.110.186.55:8080/vf-api/android/productImage/resines/jfif,golden raisins dryfruits and nuts,yes
+2136,Pistachios,Dryfruits and Nuts,250 gm,290.5,http://143.110.186.55:8080/vf-api/android/productImage/Pistachios-in-shell-scaled/jpg,pistachios dryfruits and nuts,yes
+2137,Nandini Kala Namak/Black Salt,Salt & Sugar,100 gm,12,http://143.110.186.55:8080/vf-api/android/productImage/kala namak/jfif,nandini kala namak/black salt salt & sugar,yes
+2138,Sendha Namak,Salt & Sugar,100 gm,12,http://143.110.186.55:8080/vf-api/android/productImage/sendha Namak/jfif,sendha namak salt & sugar,yes
+2141,Suruchi Coriander Powder,Spices,50 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/Suruchi-Coriander-Powder/jpg,suruchi coriander powder spices,yes
+2142,Suruchi Goda Masala,Spices,200 gm,96,http://143.110.186.55:8080/vf-api/android/productImage/Suruchi-Ghoda-Masala/jpg,suruchi goda masala spices,yes
+2143,Suruchi Goda Masala,Spices,100 gm,49,http://143.110.186.55:8080/vf-api/android/productImage/Suruchi-Ghoda-Masala/jpg,suruchi goda masala spices,yes
+2144,Suruchi Goda Masala,Spices,50 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Suruchi-Ghoda-Masala/jpg,suruchi goda masala spices,yes
+2148,Oreo Biscuits 50gm,"Biscuits ,Cookies & Chocolates",1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/oreo Biscuits/jpg,"oreo biscuits 50gm biscuits ,cookies & chocolates",yes
+2149,Dates 500gm,Dryfruits and Nuts,1 pkt,100,http://143.110.186.55:8080/vf-api/android/productImage/dates/jfif,dates 500gm dryfruits and nuts,yes
+2156,Chandan Agarabathi,Agarabathi,1 pkt,15,http://143.110.186.55:8080/vf-api/android/productImage/Chandan Incense Sticks ( Agarabatti/jpg,chandan agarabathi agarabathi,yes
+2157,Zed Black Agarabathi,Agarabathi,1 pkt,15,http://143.110.186.55:8080/vf-api/android/productImage/Zed Black Agarabathi/jpg,zed black agarabathi agarabathi,yes
+2158,White London Agarabathi,Agarabathi,1 pkt,15,http://143.110.186.55:8080/vf-api/android/productImage/White London Agarabathi/jpg,white london agarabathi agarabathi,yes
+2159,Toor / Arhar Dal 500gm,Grains & Legumes,1 pkt,57,http://143.110.186.55:8080/vf-api/android/productImage/Toor Dal/jpg,toor / arhar dal 500gm grains & legumes,yes
+2160,Channa Dal 500gm,Grains & Legumes,1 pkt,38,http://143.110.186.55:8080/vf-api/android/productImage/Channa Dal/jpg,channa dal 500gm grains & legumes,yes
+2161,Channa Dal 1kg,Grains & Legumes,1 pkt,76,http://143.110.186.55:8080/vf-api/android/productImage/Channa Dal/jpg,channa dal 1kg grains & legumes,yes
+2162,Moong Dal 500gm,Grains & Legumes,1 pkt,57.6,http://143.110.186.55:8080/vf-api/android/productImage/Moong Dal/jpg,moong dal 500gm grains & legumes,yes
+2163,Moong Dal 1kg,Grains & Legumes,1 pkt,114.6,http://143.110.186.55:8080/vf-api/android/productImage/Moong Dal/jpg,moong dal 1kg grains & legumes,yes
+2164,Green Moong Dal Chilka 500gm,Grains & Legumes,1 pkt,52.8,http://143.110.186.55:8080/vf-api/android/productImage/Moong Dal Chilka/png,green moong dal chilka 500gm grains & legumes,yes
+2165,Green Moong Dal Chilka 1kg,Grains & Legumes,1 pkt,105.05,http://143.110.186.55:8080/vf-api/android/productImage/Moong Dal Chilka/png,green moong dal chilka 1kg grains & legumes,yes
+2166,Urad Dal Black 500gm,Grains & Legumes,1 pkt,52.98,http://143.110.186.55:8080/vf-api/android/productImage/Urad Dal Black/jpg,urad dal black 500gm grains & legumes,yes
+2167,Urad Dal Black 1kg,Grains & Legumes,1 pkt,105.05,http://143.110.186.55:8080/vf-api/android/productImage/Urad Dal Black/jpg,urad dal black 1kg grains & legumes,yes
+2168,Masoor Dal 500gm,Grains & Legumes,1 pkt,55.986,http://143.110.186.55:8080/vf-api/android/productImage/Masoor Dal/jpg,masoor dal 500gm grains & legumes,yes
+2169,Masoor Dal 1kg,Grains & Legumes,1 pkt,112.1,http://143.110.186.55:8080/vf-api/android/productImage/Masoor Dal/jpg,masoor dal 1kg grains & legumes,yes
+2170,Moth Whole/Matki 500gm,Grains & Legumes,1 pkt,53,http://143.110.186.55:8080/vf-api/android/productImage/Moth whole/png,moth whole/matki 500gm grains & legumes,yes
+2171,Moth Whole/Matki 1kg,Grains & Legumes,1 pkt,105,http://143.110.186.55:8080/vf-api/android/productImage/Moth whole/png,moth whole/matki 1kg grains & legumes,yes
+2172,Urad Dal 500gm,Grains & Legumes,1 pkt,60.2,http://143.110.186.55:8080/vf-api/android/productImage/Urad Dal/jpg,urad dal 500gm grains & legumes,yes
+2173,Urad Dal 1kg,Grains & Legumes,1 pkt,120.4,http://143.110.186.55:8080/vf-api/android/productImage/Urad Dal/jpg,urad dal 1kg grains & legumes,yes
+2174,Toor / Arhar Dal 1kg,Grains & Legumes,1 pkt,115.2,http://143.110.186.55:8080/vf-api/android/productImage/Toor Dal/jpg,toor / arhar dal 1kg grains & legumes,yes
+2175,Kabuli Channa 1kg,Grains & Legumes,1 pkt,120,http://143.110.186.55:8080/vf-api/android/productImage/Kabuli Channa/jpg,kabuli channa 1kg grains & legumes,yes
+2176,Kabuli Channa 500gm,Grains & Legumes,1 pkt,60,http://143.110.186.55:8080/vf-api/android/productImage/Kabuli Channa/jpg,kabuli channa 500gm grains & legumes,yes
+2177,Desi Channa 1kg,Grains & Legumes,1 pkt,72,http://143.110.186.55:8080/vf-api/android/productImage/Desi Channa/jpg,desi channa 1kg grains & legumes,yes
+2178,Desi Channa 500gm,Grains & Legumes,1 pkt,36,http://143.110.186.55:8080/vf-api/android/productImage/Desi Channa/jpg,desi channa 500gm grains & legumes,yes
+2179,Sabudana (Medium) 1kg,Grains & Legumes,1 pkt,62,http://143.110.186.55:8080/vf-api/android/productImage/Sabudana/jpg,sabudana (medium) 1kg grains & legumes,yes
+2180,Sabudana (Medium)500gm,Grains & Legumes,1 pkt,31,http://143.110.186.55:8080/vf-api/android/productImage/Sabudana/jpg,sabudana (medium)500gm grains & legumes,yes
+2181,Sabudana (Small)1kg,Grains & Legumes,1 pkt,77,http://143.110.186.55:8080/vf-api/android/productImage/Sabudana/jpg,sabudana (small)1kg grains & legumes,yes
+2182,Sabudana (Small) 500gm,Grains & Legumes,1 pkt,39,http://143.110.186.55:8080/vf-api/android/productImage/Sabudana/jpg,sabudana (small) 500gm grains & legumes,yes
+2187,Poha Thick ,Grains & Legumes,250 gm,12,http://143.110.186.55:8080/vf-api/android/productImage/Poha/jpg,poha thick  grains & legumes,yes
+2188,Poha Thin ,Grains & Legumes,250 gm,13,http://143.110.186.55:8080/vf-api/android/productImage/Poha/jpg,poha thin  grains & legumes,yes
+2189,Cinnamomum/Tej Pan 50gm,Spices,1 pkt,10,http://143.110.186.55:8080/vf-api/android/productImage/Tej Patta/jpg,cinnamomum/tej pan 50gm spices,yes
+2190,Kalpasi/ Dagad Phool 50gm,Spices,1 pkt,39,http://143.110.186.55:8080/vf-api/android/productImage/Dagad Phool/png,kalpasi/ dagad phool 50gm spices,yes
+2191,Fenugreek Seeds/Methi 100gm,Spices,1 pkt,11,http://143.110.186.55:8080/vf-api/android/productImage/Methi/png,fenugreek seeds/methi 100gm spices,yes
+2192,Cumin Seeds/Jeera 100gm,Spices,1 pkt,25,http://143.110.186.55:8080/vf-api/android/productImage/Cumin Seeds/jpg,cumin seeds/jeera 100gm spices,yes
+2193,Cumin Seeds/Jeera 50gm,Spices,1 pkt,12,http://143.110.186.55:8080/vf-api/android/productImage/Cumin Seeds/jpg,cumin seeds/jeera 50gm spices,yes
+2194,Cumin Seeds/Jeera 25gm,Spices,1 pkt,7,http://143.110.186.55:8080/vf-api/android/productImage/Cumin Seeds/jpg,cumin seeds/jeera 25gm spices,yes
+2195,Mustard Seeds/Rai Small 100gm,Spices,1 pkt,14,http://143.110.186.55:8080/vf-api/android/productImage/Mustard Seeds/jpg,mustard seeds/rai small 100gm spices,yes
+2196,Mustard Seeds/Rai Small 50gm,Spices,1 pkt,8,http://143.110.186.55:8080/vf-api/android/productImage/Mustard Seeds/jpg,mustard seeds/rai small 50gm spices,yes
+2197,Mustard Seeds/Rai Big 100gm,Spices,1 pkt,13,http://143.110.186.55:8080/vf-api/android/productImage/Mustard Seeds/jpg,mustard seeds/rai big 100gm spices,yes
+2198,Mustard Seeds/Rai Big 50gm,Spices,1 pkt,7,http://143.110.186.55:8080/vf-api/android/productImage/Mustard Seeds/jpg,mustard seeds/rai big 50gm spices,yes
+2199,Sauf small/Fennel Seeds 250gm,Spices,1 pkt,87,http://143.110.186.55:8080/vf-api/android/productImage/Sauf/jpg,sauf small/fennel seeds 250gm spices,yes
+2200,Sauf small/Fennel Seeds 100gm,Spices,1 pkt,35,http://143.110.186.55:8080/vf-api/android/productImage/Sauf/jpg,sauf small/fennel seeds 100gm spices,yes
+2201,Sauf Big/Fennel Seeds 250gm,Spices,1 pkt,78,http://143.110.186.55:8080/vf-api/android/productImage/Sauf/jpg,sauf big/fennel seeds 250gm spices,yes
+2202,Sauf Big/Fennel Seeds 100gm,Spices,1 pkt,31,http://143.110.186.55:8080/vf-api/android/productImage/Sauf/jpg,sauf big/fennel seeds 100gm spices,yes
+2203,Cloves/Lavang 100gm,Spices,1 pkt,96,http://143.110.186.55:8080/vf-api/android/productImage/Lavang/jpg,cloves/lavang 100gm spices,yes
+2204,Elaichi 100gm,Spices,1 pkt,198,http://143.110.186.55:8080/vf-api/android/productImage/Elaichi/jpg,elaichi 100gm spices,yes
+2205,Black Pepper/Kali Mirch 50gm,Spices,1 pkt,40,http://143.110.186.55:8080/vf-api/android/productImage/Black Pepper/jpg,black pepper/kali mirch 50gm spices,yes
+2206,Cinnamon/Dalchini 50gm,Spices,1 pkt,22,"http://143.110.186.55:8080/vf-api/android/productImage/Cinnamon,Kalami/jpg",cinnamon/dalchini 50gm spices,yes
+2207,Star Anise 50gm,Spices,1 pkt,50,http://143.110.186.55:8080/vf-api/android/productImage/Star Anise/jpg,star anise 50gm spices,yes
+2208,Shahjeera/Caraway Seeds 50gm,Spices,1 pkt,16,http://143.110.186.55:8080/vf-api/android/productImage/Caraway Seeds/jpg,shahjeera/caraway seeds 50gm spices,yes
+2209,Khaskhas/Poppy Seeds 100gm,Spices,1 pkt,197,http://143.110.186.55:8080/vf-api/android/productImage/Khus Khus/jpg,khaskhas/poppy seeds 100gm spices,yes
+2210,Khaskhas/Poppy Seeds 50gm,Spices,1 pkt,98,http://143.110.186.55:8080/vf-api/android/productImage/Khus Khus/jpg,khaskhas/poppy seeds 50gm spices,yes
+2211,Coriander Seeds 200gm,Spices,1 pkt,30,http://143.110.186.55:8080/vf-api/android/productImage/Coriander Seeds/jpg,coriander seeds 200gm spices,yes
+2212,Fenugreek Seeds/Methi 50gm,Spices,1 pkt,6,http://143.110.186.55:8080/vf-api/android/productImage/Methi/png,fenugreek seeds/methi 50gm spices,yes
+2213,Kalonji 50gm,Spices,1 pkt,20,http://143.110.186.55:8080/vf-api/android/productImage/Kalonji/jpg,kalonji 50gm spices,yes
+2214,Jaipatri 50gm,Spices,1 pkt,132,http://143.110.186.55:8080/vf-api/android/productImage/Jaypatri/jpg,jaipatri 50gm spices,yes
+2215,Black Cardamom / Black Elaichi 50gm,Spices,1 pkt,50,http://143.110.186.55:8080/vf-api/android/productImage/Black Cardamom/jpg,black cardamom / black elaichi 50gm spices,yes
+2216,Nutmeg / Jayfal 50gm,Spices,1 pkt,38,http://143.110.186.55:8080/vf-api/android/productImage/Jayfal/jpeg,nutmeg / jayfal 50gm spices,yes
+2217,Peanut / Shengdana 1kg,Grains & Legumes,1 pkt,175,http://143.110.186.55:8080/vf-api/android/productImage/Red Peanuts/jpg,peanut / shengdana 1kg grains & legumes,yes
+2218,Peanut / Shengdana 500gm,Grains & Legumes,1 pkt,87,http://143.110.186.55:8080/vf-api/android/productImage/Red Peanuts/jpg,peanut / shengdana 500gm grains & legumes,yes
+2219,Peanut White Skin/ Shengdana 1kg,Grains & Legumes,1 pkt,144,http://143.110.186.55:8080/vf-api/android/productImage/White Peanuts/jpg,peanut white skin/ shengdana 1kg grains & legumes,yes
+2220,Peanut White Skin/ Shengdana 500gm,Grains & Legumes,1 pkt,72,http://143.110.186.55:8080/vf-api/android/productImage/White Peanuts/jpg,peanut white skin/ shengdana 500gm grains & legumes,yes
+2221,Bhagar 500gm,Grains & Legumes,1 pkt,66,http://143.110.186.55:8080/vf-api/android/productImage/Bhagar/jpeg,bhagar 500gm grains & legumes,yes
+2222,Bhagar 250gm,Grains & Legumes,1 pkt,33,http://143.110.186.55:8080/vf-api/android/productImage/Bhagar/jpeg,bhagar 250gm grains & legumes,yes
+2223,Rava/Suji 1kg,Grains & Legumes,1 pkt,30,http://143.110.186.55:8080/vf-api/android/productImage/Suji Rava/jpg,rava/suji 1kg grains & legumes,yes
+2224,Rava/Suji 500gm,Grains & Legumes,1 pkt,15,http://143.110.186.55:8080/vf-api/android/productImage/Suji Rava/jpg,rava/suji 500gm grains & legumes,yes
+2225,Rava/Suji 250gm,Grains & Legumes,1 pkt,8,http://143.110.186.55:8080/vf-api/android/productImage/Suji Rava/jpg,rava/suji 250gm grains & legumes,yes
+2226,Maida 1kg,Grains & Legumes,1 pkt,32,http://143.110.186.55:8080/vf-api/android/productImage/Maida/jpg,maida 1kg grains & legumes,yes
+2227,Maida 500gm,Grains & Legumes,1 gm,16,http://143.110.186.55:8080/vf-api/android/productImage/Maida/jpg,maida 500gm grains & legumes,yes
+2228,Maida 250gm,Grains & Legumes,1 pkt,8,http://143.110.186.55:8080/vf-api/android/productImage/Maida/jpg,maida 250gm grains & legumes,yes
+2229,Dalia Splits 500gm,Grains & Legumes,1 pkt,51,http://143.110.186.55:8080/vf-api/android/productImage/Dalia Split/jpg,dalia splits 500gm grains & legumes,yes
+2230,Dalia Splits 250gm,Grains & Legumes,1 pkt,26,http://143.110.186.55:8080/vf-api/android/productImage/Dalia Split/jpg,dalia splits 250gm grains & legumes,yes
+2231,All Out Ultra 45ml,Indoor Insect & Paste Control,1 box,72,http://143.110.186.55:8080/vf-api/android/productImage/All Out Ultra/jpg,all out ultra 45ml indoor insect & paste control,yes
+2232,Good Knight Gold Flash 45ml,Indoor Insect & Paste Control,1 Box,72,http://143.110.186.55:8080/vf-api/android/productImage/Good Knight/jpg,good knight gold flash 45ml indoor insect & paste control,yes
+2233,Mortein Insta 45ml ,Indoor Insect & Paste Control,1 box,65,http://143.110.186.55:8080/vf-api/android/productImage/Mortein Insta/jpg,mortein insta 45ml  indoor insect & paste control,yes
+2234,Carbon Zinc Red Battery Eveready AAA 1012,Appliances & Electricals,1 pc,15,http://143.110.186.55:8080/vf-api/android/productImage/Eveready AA1012/jpg,carbon zinc red battery eveready aaa 1012 appliances & electricals,yes
+2235,Carbon Zinc Red Battery Eveready AA 1015,Appliances & Electricals,1 pc,15,http://143.110.186.55:8080/vf-api/android/productImage/Eveready AA1015/jpg,carbon zinc red battery eveready aa 1015 appliances & electricals,yes
+2236,Gillette Guard Shaving Cream 50gm,Men,1 pc,49,http://143.110.186.55:8080/vf-api/android/productImage/Gillette Gourd Shaving Cream 49 rs/jpg,gillette guard shaving cream 50gm men,yes
+2237,Gillette Guard Shaving Cream 25gm,Men,1 pc,25,http://143.110.186.55:8080/vf-api/android/productImage/Gillette Gourd sahving cream 25rs/png,gillette guard shaving cream 25gm men,yes
+2238,Gillette Guard Blades ,Men,1 pc,10,http://143.110.186.55:8080/vf-api/android/productImage/Gillette Guard Blade/jpeg,gillette guard blades  men,yes
+2239,Gillette Guard Handle & Cartridge,Men,1 pkt,24,http://143.110.186.55:8080/vf-api/android/productImage/Gillette Guard Pouch/jpg,gillette guard handle & cartridge men,yes
+2240,"Old Spice Musk After Shave Lotion, 50 ml",Men,1 box,124.8,http://143.110.186.55:8080/vf-api/android/productImage/Old Spices Shave Lotion/jpg,"old spice musk after shave lotion, 50 ml men",yes
+2246,Veg Hakka Noodles 300gm,Instant Foods,1 pkt,70,http://143.110.186.55:8080/vf-api/android/productImage/WhatsApp Image 2022-04-29 at 9/57.14 AM.jpeg,veg hakka noodles 300gm instant foods,yes
+2248,Dark Fantasy Vanilla Fills ,"Biscuits ,Cookies & Chocolates",1 pkt,20,http://143.110.186.55:8080/vf-api/android/productImage/Dark Fantasy Vanilla Fills/jpg,"dark fantasy vanilla fills  biscuits ,cookies & chocolates",yes
+2253,Fair & Glow Lovely 25gm,Face Cream,1 pack,58,http://143.110.186.55:8080/vf-api/android/productImage/Fair Lovely/jpg,fair & glow lovely 25gm face cream,yes
+2254,Fair & Glow Lovely 50gm,Face Cream,1 PACK,110,http://143.110.186.55:8080/vf-api/android/productImage/Fair Lovely/jpg,fair & glow lovely 50gm face cream,yes
+2255,Dove Shampoo ,Shampoo & Conditioner,1 pouch,2,http://143.110.186.55:8080/vf-api/android/productImage/Dove pouch/jpg,dove shampoo  shampoo & conditioner,yes
+2256,Active Wheel Powder(Zamak),Cloth Wash,1 kg,63,http://143.110.186.55:8080/vf-api/android/productImage/Wheel powder/jpg,active wheel powder(zamak) cloth wash,yes
+1003,Spring Onion,Vegetables,200 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Spring Onion/jpeg,spring onion vegetables,yes
+1005,Green Pumpkin,Vegetables,500 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/vfgreenpumpkin/png,green pumpkin vegetables,yes
+1163,Lal Bhaji ,Vegetables,500 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Lalbhaji/jpg,lal bhaji  vegetables,yes
+1164,Chavli Bhaji ,Vegetables,250 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/Chavli Bhaji/jpg,chavli bhaji  vegetables,yes
+1169,Bottle Gourd ( 400 gm 500 gm ),Vegetables,1 pcs,18,http://143.110.186.55:8080/vf-api/android/productImage/Bottle Gourd/jpg,bottle gourd ( 400 gm 500 gm ) vegetables,yes
+1171,Radish ,Vegetables,500 gm,35,http://143.110.186.55:8080/vf-api/android/productImage/Radish/jpg,radish  vegetables,yes
+1172,Pigeon Peas / Toor,Vegetables,500 gm,26,http://143.110.186.55:8080/vf-api/android/productImage/Toor Beans/jpg,pigeon peas / toor vegetables,yes
+1174,Elephant foot yam / Suran,Vegetables,500 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Suran Root/jpg,elephant foot yam / suran vegetables,yes
+1176,Bottle Gourd,Vegetables,500 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Bottle Gourd/jpg,bottle gourd vegetables,yes
+1178,Radish ,Vegetables,500 gm,16,http://143.110.186.55:8080/vf-api/android/productImage/Radish/jpg,radish  vegetables,yes
+1179,Pigeon Peas / Toor,Vegetables,500 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Toor Beans/jpg,pigeon peas / toor vegetables,yes
+1181,Elephant foot yam / Suran,Vegetables,250 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Suran Root/jpg,elephant foot yam / suran vegetables,yes
+1184,Dill Leaves / Shepu Bhaji,Vegetables,500 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Dill Leaves/jpg,dill leaves / shepu bhaji vegetables,yes
+1186,Green Peas ,Vegetables,500 gm,18,http://143.110.186.55:8080/vf-api/android/productImage/Green Peas/jpg,green peas  vegetables,yes
+1187,Green Peas ,Vegetables,500 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Green Peas/jpg,green peas  vegetables,yes
+1188,Dill Leaves /Shepu Bhaji ,Vegetables,250 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Dill Leaves/jpg,dill leaves /shepu bhaji  vegetables,yes
+1189,Valor Papdi / Wall beans ,Vegetables,250 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Valor Papdi/jpg,valor papdi / wall beans  vegetables,yes
+1190,Valor Papdi / Wal beans ,Vegetables,500 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Valor Papdi/jpg,valor papdi / wal beans  vegetables,yes
+1191,Sorted Methi / Fenugreek ,Vegetables,150 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/Sorted Methi/jpg,sorted methi / fenugreek  vegetables,yes
+1193,Roma Tomatoes ,Vegetables,500 gm,35,http://143.110.186.55:8080/vf-api/android/productImage/Roma Tomatoes/jpg,roma tomatoes  vegetables,yes
+1194,Shalgam / Turnip,Vegetables,400 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/Turnip/jpg,shalgam / turnip vegetables,yes
+1197,Pigeon Peas / Toor Dana,Vegetables,200 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Pigeon Peas/jpg,pigeon peas / toor dana vegetables,yes
+1200,Turmeric,Vegetables,250 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/Turmeric/jpg,turmeric vegetables,yes
+1203,Brocoli,Vegetables,500 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/Brocoli/jpg,brocoli vegetables,yes
+1206,Red cabbage( 350gm to 450gm),Vegetables,1 pcs,15,http://143.110.186.55:8080/vf-api/android/productImage/red cabbage/jpg,red cabbage( 350gm to 450gm) vegetables,yes
+1208,green peas / Matar,Vegetables,200 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/peeled green peas/jpg,green peas / matar vegetables,yes
+1209,Red cabbage,Vegetables,500 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/red cabbage/jpg,red cabbage vegetables,yes
+1211,Peeled Green Peas ,Vegetables,200 gm,35,http://143.110.186.55:8080/vf-api/android/productImage/peeled green peas/jpg,peeled green peas  vegetables,yes
+1212,Brocoli,Vegetables,200 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Brocoli/jpg,brocoli vegetables,yes
+1643,Lettuce Iceberg (350gm- 500gm) ,Vegetables,1 Pcs,75,http://143.110.186.55:8080/vf-api/android/productImage/Lettuce/jpg,lettuce iceberg (350gm- 500gm)  vegetables,yes
+1644,Green Channa/Harbara,Vegetables,800 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Green Channa/jpg,green channa/harbara vegetables,yes
+1646,Mustard / Sarso  Bhaji ,Vegetables,500 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Rai Bhaji/jpg,mustard / sarso  bhaji  vegetables,yes
+1647,Spring Garlic,Vegetables,250 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/Spring Garlic/jpg,spring garlic vegetables,yes
+1763,Green Brinjal,Vegetables,500 gm,23,http://143.110.186.55:8080/vf-api/android/productImage/green_bringal/jpg,green brinjal vegetables,yes
+1785,Sponge Gourd ,Vegetables,500 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/Sponge Gourd/jpg,sponge gourd  vegetables,yes
+1802,Peanuts /Mungfali,Vegetables,250 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/peanut/jfif,peanuts /mungfali vegetables,yes
+1811,Lal Bhaji ,Vegetables,500 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Lalbhaji/jpg,lal bhaji  vegetables,yes
+1812,Chavli Bhaji ,Vegetables,500 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Chavli Bhaji/jpg,chavli bhaji  vegetables,yes
+1814,Bottle Gourd,Vegetables,500 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Bottle Gourd/jpg,bottle gourd vegetables,yes
+1816,Radish ,Vegetables,500 gm,16,http://143.110.186.55:8080/vf-api/android/productImage/Radish/jpg,radish  vegetables,yes
+1817,Pigeon Peas / Toor,Vegetables,500 gm,26,http://143.110.186.55:8080/vf-api/android/productImage/Toor Beans/jpg,pigeon peas / toor vegetables,yes
+1819,Elephant foot yam / Suran,Vegetables,500 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Suran Root/jpg,elephant foot yam / suran vegetables,yes
+1821,Dill Leaves / Shepu Bhaji,Vegetables,500 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Dill Leaves/jpg,dill leaves / shepu bhaji vegetables,yes
+1822,Green Peas ,Vegetables,500 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Green Peas/jpg,green peas  vegetables,yes
+1823,Valor Papdi / Wall beans ,Vegetables,500 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Valor Papdi/jpg,valor papdi / wall beans  vegetables,yes
+1824,Sorted Methi / Fenugreek ,Vegetables,150 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/Sorted Methi/jpg,sorted methi / fenugreek  vegetables,yes
+1825,Roma Tomatoes ,Vegetables,400 gm,55,http://143.110.186.55:8080/vf-api/android/productImage/Roma Tomatoes/jpg,roma tomatoes  vegetables,yes
+1826,Shalgam / Turnip,Vegetables,400 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/Turnip/jpg,shalgam / turnip vegetables,yes
+1829,Pigeon Peas / Toor Dana,Vegetables,200 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Pigeon Peas/jpg,pigeon peas / toor dana vegetables,yes
+1830,Turmeric,Vegetables,250 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Turmeric/jpg,turmeric vegetables,yes
+1832,Brocoli,Vegetables,500 gm,35,http://143.110.186.55:8080/vf-api/android/productImage/Brocoli/jpg,brocoli vegetables,yes
+1834,Red cabbage,Vegetables,700 gm,99,http://143.110.186.55:8080/vf-api/android/productImage/red cabbage/jpg,red cabbage vegetables,yes
+1836,green peas / Matar,Vegetables,200 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/peeled green peas/jpg,green peas / matar vegetables,yes
+2006,Lettuce,Vegetables,500 gm,40,http://143.110.186.55:8080/vf-api/android/productImage/Lettuce/jpg,lettuce vegetables,yes
+2007,Green Channa/Harbara,Vegetables,800 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Green Channa/jpg,green channa/harbara vegetables,yes
+2009,Mustard / Sarso  Bhaji ,Vegetables,500 gm,25,http://143.110.186.55:8080/vf-api/android/productImage/Rai Bhaji/jpg,mustard / sarso  bhaji  vegetables,yes
+2010,Spring Garlic,Vegetables,250 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/Spring Garlic/jpg,spring garlic vegetables,yes
+2124,Zucchini,Vegetables,500 gm,60,http://143.110.186.55:8080/vf-api/android/productImage/zucchini-relish-recipe/jpg,zucchini vegetables,yes
+2150,Sweet Potatoes,Vegetables,500 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Sweet Potatoes/jfif,sweet potatoes vegetables,yes
+2151,Long Green Eggplant,Vegetables,500 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/long green eggplant/jpg,long green eggplant vegetables,yes
+2152,Sweet Corn,Vegetables,1 piece,20,http://143.110.186.55:8080/vf-api/android/productImage/corn/jfif,sweet corn vegetables,yes
+2153,Sweet Corn,Vegetables,3 piece,50,http://143.110.186.55:8080/vf-api/android/productImage/corn/jfif,sweet corn vegetables,yes
+2184,White Cucumber,Vegetables,500 gm,15,http://143.110.186.55:8080/vf-api/android/productImage/roseland-small-white-cucumber_LRG/jpg,white cucumber vegetables,yes
+2242,Peeled Garlic,Vegetables,250 gm,30,http://143.110.186.55:8080/vf-api/android/productImage/Peeled Garlic/png,peeled garlic vegetables,yes
+2244,Cabbage (700 to 800gm),Vegetables,1 piece,23,http://143.110.186.55:8080/vf-api/android/productImage/cabbage/jpeg,cabbage (700 to 800gm) vegetables,yes
+2245,Jackfruits Seeds,Vegetables,250 gm,20,http://143.110.186.55:8080/vf-api/android/productImage/Jackfruits seeds/jpg,jackfruits seeds vegetables,yes
+2249,Cauliflower (350gm to 450gm),Vegetables,1 pcs,18,http://143.110.186.55:8080/vf-api/android/productImage/cauliflower/jpg,cauliflower (350gm to 450gm) vegetables,yes
+2250,Cabbage (500 to 600gm),Vegetables,1 pcs,17,http://143.110.186.55:8080/vf-api/android/productImage/Cabbage/jpg,cabbage (500 to 600gm) vegetables,yes
+2251,Cauliflower 800gm-950gm,Vegetables,1 pcs,43,http://143.110.186.55:8080/vf-api/android/productImage/Cauliflower/jpg,cauliflower 800gm-950gm vegetables,yes
+2252,Cauliflower (550gm to 650gm),Vegetables,1 pcs,24,http://143.110.186.55:8080/vf-api/android/productImage/Cauliflower/jpg,cauliflower (550gm to 650gm) vegetables,yes
+2258,Bottle Gourd(550gm to 650gm),Vegetables,1 pc,15,http://143.110.186.55:8080/vf-api/android/productImage/Bottle gourd/jpg,bottle gourd(550gm to 650gm) vegetables,yes
+2267,pink Bharta brinjal ( 450gm-600gm),Vegetables,1 gm,45,http://143.110.186.55:8080/vf-api/android/productImage/brinjal-bharta-500x500/png,pink bharta brinjal ( 450gm-600gm) vegetables,yes
+2268,Fresh Kashmiri Apples,Vegetables,1 kg,240,http://143.110.186.55:8080/vf-api/android/productImage/apples/jpg,fresh kashmiri apples vegetables,yes
+2270,Jackfruit,Vegetables,1 kg,40,http://143.110.186.55:8080/vf-api/android/productImage/Jackfruit/jfif,jackfruit vegetables,yes
+64934,Onion,Vegetables,1 kg,22,https://www.jiomart.com/images/product/original/590002136/onion-5-kg-pack-product-images-o590002136-p590002136-0-202203141906.jpg,onionvegetables,yes
+168383,Parle G ,Biscuits & Cookies,1 Kg,26,https://www.bigbasket.com/media/uploads/p/l/40019272_1-parle-gluco-biscuits-parle-g.jpg,parle g biscuits & cookies,yes
+43322,Parle G,Biscuits and Cookies,110g,10Rs,https://www.jiomart.com/images/product/600x600/491539619/parle-g-biscuits-110-g-get-20-g-extra-product-images-o491539619-p491539619-0-202203170517.jpg,parle gbiscuits and cookies,yes
